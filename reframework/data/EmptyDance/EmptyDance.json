@@ -1,0 +1,12 @@
+{
+    "CurMode": 2,
+    "EnableInfinite": false,
+    "EnableMod": true,
+    "Hotkeys": {
+        "Input Key": "Space"
+    },
+    "Mode": [
+        "Двойной прыжок",
+        "Левитация"
+    ]
+}

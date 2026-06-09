@@ -1,0 +1,5 @@
+{
+    "enabled": false,
+    "lock_on_count": 100,
+    "lock_on_frame": 0.01
+}

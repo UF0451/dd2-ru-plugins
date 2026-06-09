@@ -1,0 +1,1294 @@
+{
+    "BodyDetailEditor._Context": {
+        "<IsStore>k__BackingField": true,
+        "RestoredType": 0,
+        "_Beard": {
+            "_CapRootColor": "0,0,0,255",
+            "_Gloss": 0.019999999552965164,
+            "_RootColor": "0,0,0,255",
+            "_Sheen": 0.5,
+            "_TipBlend": 0.5,
+            "_TipColor": "0,0,0,255",
+            "type": "app.BodyDetailContext.BeardContext"
+        },
+        "_BodyHair": {
+            "_Color": "0,0,0,255",
+            "_Density": 0.5,
+            "type": "app.BodyDetailContext.BodyHairContext"
+        },
+        "_Cheek": {
+            "_Color": "102,72,66,255",
+            "_Metallic": 0.0,
+            "_Opacity": 0.6000000238418579,
+            "_Roughness": 0.5,
+            "_Spread": 1.0,
+            "_Thickness": 0.19999998807907104,
+            "type": "app.BodyDetailContext.CheekContext"
+        },
+        "_Claws": {
+            "_Color": "8,7,5,255",
+            "type": "app.BodyDetailContext.ClawsContext"
+        },
+        "_Dirt": {
+            "_Color1": "0,0,0,255",
+            "_Color2": "0,0,0,255",
+            "_ColorCurve": 5.0,
+            "_Coverage": 0.20000000298023224,
+            "_DirtPattern": 0,
+            "_Opacity": 1.0,
+            "_OpacityCurve": 3.0,
+            "_Roughness": 0.800000011920929,
+            "_Thickness": 0.800000011920929,
+            "type": "app.BodyDetailContext.DirtContext"
+        },
+        "_Eyebrows": {
+            "_Color": "0,0,0,255",
+            "_Density": 0.512499988079071,
+            "_Metallic": 0.0,
+            "_Roughness": 1.0,
+            "type": "app.BodyDetailContext.EyebrowsContext"
+        },
+        "_Eyelashes": {
+            "_Base": {
+                "_Density": 1.0,
+                "_Enabled": true,
+                "_Length": 0.550000011920929,
+                "_Metallic": 0.0,
+                "_RootColor": "0,0,0,255",
+                "_Roughness": 1.0,
+                "_TipBlend": 0.0,
+                "_TipColor": "0,0,0,255",
+                "type": "app.BodyDetailContext.EyelashContext"
+            },
+            "_Lower": {
+                "_Density": 1.0,
+                "_Enabled": false,
+                "_Length": 0.550000011920929,
+                "_Metallic": 0.0,
+                "_RootColor": "0,0,0,255",
+                "_Roughness": 1.0,
+                "_TipBlend": 0.0,
+                "_TipColor": "0,0,0,255",
+                "type": "app.BodyDetailContext.EyelashContext"
+            },
+            "_Upper": {
+                "_Density": 1.0,
+                "_Enabled": false,
+                "_Length": 0.550000011920929,
+                "_Metallic": 0.0,
+                "_RootColor": "0,0,0,255",
+                "_Roughness": 1.0,
+                "_TipBlend": 0.0,
+                "_TipColor": "0,0,0,255",
+                "type": "app.BodyDetailContext.EyelashContext"
+            },
+            "type": "app.BodyDetailContext.EyelashesContext"
+        },
+        "_Eyeliner": {
+            "_Color": "0,0,0,255",
+            "_Metallic": 0.0,
+            "_Opacity": 1.0,
+            "_Roughness": 0.5999999642372131,
+            "_Thickness": 0.5099999904632568,
+            "type": "app.BodyDetailContext.EyelinerContext"
+        },
+        "_Eyes": {
+            "_Common": {
+                "_Enabled": false,
+                "_IrisColor1": "6,4,4,255",
+                "_IrisColor2": "121,47,10,255",
+                "_IrisColor3": "5,3,0,255",
+                "_IrisColor4": "229,208,188,255",
+                "_IrisSize": -0.15000000596046448,
+                "_PupilHeight": 0.0,
+                "_PupilShape": false,
+                "_PupilSize": -0.3499999940395355,
+                "_PupilWidth": 0.0,
+                "type": "app.BodyDetailContext.EyeBaseContext"
+            },
+            "_Left": {
+                "_Enabled": false,
+                "_IrisColor1": "6,4,4,255",
+                "_IrisColor2": "121,47,10,255",
+                "_IrisColor3": "5,3,0,255",
+                "_IrisColor4": "229,208,188,255",
+                "_IrisSize": -0.15000000596046448,
+                "_PupilHeight": 0.0,
+                "_PupilShape": false,
+                "_PupilSize": -0.3499999940395355,
+                "_PupilWidth": 0.0,
+                "type": "app.BodyDetailContext.EyeBaseContext"
+            },
+            "_LeftEyeSquintRate": 0.22999998927116394,
+            "_LeftEyeState": 2,
+            "_Right": {
+                "_Enabled": false,
+                "_IrisColor1": "6,4,4,255",
+                "_IrisColor2": "121,47,10,255",
+                "_IrisColor3": "5,3,0,255",
+                "_IrisColor4": "229,208,188,255",
+                "_IrisSize": -0.15000000596046448,
+                "_PupilHeight": 0.0,
+                "_PupilShape": false,
+                "_PupilSize": -0.3499999940395355,
+                "_PupilWidth": 0.0,
+                "type": "app.BodyDetailContext.EyeBaseContext"
+            },
+            "_RightEyeSquintRate": 0.22999998927116394,
+            "_RightEyeState": 2,
+            "type": "app.BodyDetailContext.EyesContext"
+        },
+        "_Eyeshadow": {
+            "_Area1": {
+                "_Enabled": false,
+                "_Metallic": 0.0,
+                "_Opacity": 0.699999988079071,
+                "_Roughness": 0.5,
+                "_Spread": 1.0,
+                "type": "app.BodyDetailContext.EyeshadowBaseContext"
+            },
+            "_Area2": {
+                "_Enabled": false,
+                "_Metallic": 0.0,
+                "_Opacity": 0.699999988079071,
+                "_Roughness": 0.5,
+                "_Spread": 1.0,
+                "type": "app.BodyDetailContext.EyeshadowBaseContext"
+            },
+            "_Common": {
+                "_Color1": "148,79,10,255",
+                "_Color2": "148,79,10,255",
+                "_Enabled": false,
+                "_Metallic": 0.0,
+                "_Opacity": 0.699999988079071,
+                "_Roughness": 0.5,
+                "_Spread": 1.0,
+                "_Thickness": 0.19999998807907104,
+                "type": "app.BodyDetailContext.EyeshadowCommonContext"
+            },
+            "type": "app.BodyDetailContext.EyeshadowContext"
+        },
+        "_Freckles": {
+            "_Color": "162,73,55,255",
+            "_Opacity": 0.0,
+            "type": "app.BodyDetailContext.FrecklesContext"
+        },
+        "_FurCheeks": {
+            "_Opacity": 1.0,
+            "type": "app.BodyDetailContext.FurCheeksContext"
+        },
+        "_FurEyes": {
+            "_Opacity": 1.0,
+            "type": "app.BodyDetailContext.FurEyesContext"
+        },
+        "_FurFaceMask": {
+            "_Opacity": 1.0,
+            "type": "app.BodyDetailContext.FurFaceMaskContext"
+        },
+        "_FurFacePattern": {
+            "_Color1": "74,61,48,255",
+            "_Color1_Override": 0.0,
+            "_Color2": "74,61,48,255",
+            "_Color2_Override": 0.5,
+            "type": "app.BodyDetailContext.FurFacePatternContext"
+        },
+        "_FurForehead": {
+            "_Opacity": 1.0,
+            "type": "app.BodyDetailContext.FurForeheadContext"
+        },
+        "_FurNose": {
+            "_Opacity": 1.0,
+            "type": "app.BodyDetailContext.FurNoseContext"
+        },
+        "_FurPattern": {
+            "_Color1": "229,149,70,255",
+            "_Color1_Override": 0.0,
+            "_Color2": "162,109,55,255",
+            "_Color2_Override": 0.04999999701976776,
+            "_Color3": "112,60,8,255",
+            "_Color3_Override": 0.0,
+            "_Color4": "74,48,22,255",
+            "_Color4_Override": 0.0,
+            "type": "app.BodyDetailContext.FurPatternsContext"
+        },
+        "_Hair": {
+            "_CapRootColor": "0,0,0,255",
+            "_Gloss": 0.20000000298023224,
+            "_RootColor": "0,0,0,255",
+            "_Sheen": 0.8999999761581421,
+            "_TipBlend": 0.5,
+            "_TipColor": "30,15,8,255",
+            "type": "app.BodyDetailContext.HairContext"
+        },
+        "_Lips": {
+            "_Common": {
+                "_Color1": "40,21,12,255",
+                "_Metallic": 0.0,
+                "_Opacity": 0.6499999761581421,
+                "_Roughness": 0.44999998807907104,
+                "_Spread": 1.0,
+                "type": "app.BodyDetailContext.LipCommonContext"
+            },
+            "type": "app.BodyDetailContext.LipsContext"
+        },
+        "_Nose": {
+            "_Color": "0,0,0,255",
+            "_Color2": "0,0,0,255",
+            "_Opacity": 1.0,
+            "_Opacity2": 1.0,
+            "_Roughness": 0.5,
+            "_Roughness2": 0.5,
+            "_Thickness": 0.0,
+            "type": "app.BodyDetailContext.NoseContext"
+        },
+        "_Scars": {
+            "_SlotDatas": [
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Opacity": 1.0,
+                    "_Region": 0,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Scars.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Opacity": 1.0,
+                    "_Region": 0,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Scars.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Opacity": 1.0,
+                    "_Region": 1,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Scars.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Opacity": 1.0,
+                    "_Region": 1,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Scars.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Opacity": 1.0,
+                    "_Region": 2,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Scars.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Opacity": 1.0,
+                    "_Region": 2,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Scars.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Opacity": 1.0,
+                    "_Region": 3,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Scars.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Opacity": 1.0,
+                    "_Region": 3,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Scars.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Opacity": 1.0,
+                    "_Region": 4,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Scars.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Opacity": 1.0,
+                    "_Region": 4,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Scars.SlotData"
+                }
+            ],
+            "type": "app.BodyDetailContext.ScarsContext"
+        },
+        "_Skin": {
+            "_Color": "216,201,172,255",
+            "_MuscleStrength": 0.5,
+            "_Roughness": 1.0550000667572021,
+            "_SkinColorCurve": 0.5099999904632568,
+            "_SkinContrast": 0.0,
+            "_WrinkeStrength": 0.800000011920929,
+            "type": "app.BodyDetailContext.SkinContext"
+        },
+        "_Tattoos": {
+            "_SlotDatas": [
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_Color1": "0,0,0,255",
+                    "_Color2": "0,0,0,255",
+                    "_Color3": "0,0,0,255",
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.5,
+                    "_HorizontalTiling": 1,
+                    "_Metallic": 0.0,
+                    "_Opacity": 1.0,
+                    "_Region": 0,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 1135392373,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": -0.6650000214576721,
+                    "_VerticalScale": 0.15000000596046448,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Tattoos.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_Color1": "0,0,0,255",
+                    "_Color2": "0,0,0,255",
+                    "_Color3": "0,0,0,255",
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Metallic": 0.0,
+                    "_Opacity": 1.0,
+                    "_Region": 0,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Tattoos.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_Color1": "0,0,0,255",
+                    "_Color2": "0,0,0,255",
+                    "_Color3": "0,0,0,255",
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Metallic": 0.0,
+                    "_Opacity": 1.0,
+                    "_Region": 1,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Tattoos.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_Color1": "0,0,0,255",
+                    "_Color2": "0,0,0,255",
+                    "_Color3": "0,0,0,255",
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Metallic": 0.0,
+                    "_Opacity": 1.0,
+                    "_Region": 1,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Tattoos.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_Color1": "0,0,0,255",
+                    "_Color2": "0,0,0,255",
+                    "_Color3": "0,0,0,255",
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Metallic": 0.0,
+                    "_Opacity": 1.0,
+                    "_Region": 2,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Tattoos.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_Color1": "0,0,0,255",
+                    "_Color2": "0,0,0,255",
+                    "_Color3": "0,0,0,255",
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Metallic": 0.0,
+                    "_Opacity": 1.0,
+                    "_Region": 2,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Tattoos.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_Color1": "0,0,0,255",
+                    "_Color2": "0,0,0,255",
+                    "_Color3": "0,0,0,255",
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Metallic": 0.0,
+                    "_Opacity": 1.0,
+                    "_Region": 3,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Tattoos.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_Color1": "0,0,0,255",
+                    "_Color2": "0,0,0,255",
+                    "_Color3": "0,0,0,255",
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Metallic": 0.0,
+                    "_Opacity": 1.0,
+                    "_Region": 3,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Tattoos.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_Color1": "0,0,0,255",
+                    "_Color2": "0,0,0,255",
+                    "_Color3": "0,0,0,255",
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Metallic": 0.0,
+                    "_Opacity": 1.0,
+                    "_Region": 4,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Tattoos.SlotData"
+                },
+                {
+                    "<EditMode>k__BackingField": true,
+                    "<HasPropertyChanged>k__BackingField": false,
+                    "<HasStyleChanged>k__BackingField": false,
+                    "_Color1": "0,0,0,255",
+                    "_Color2": "0,0,0,255",
+                    "_Color3": "0,0,0,255",
+                    "_HorizontalPosition": 0.0,
+                    "_HorizontalScale": 0.25,
+                    "_HorizontalTiling": 1,
+                    "_Metallic": 0.0,
+                    "_Opacity": 1.0,
+                    "_Region": 4,
+                    "_Rotation": 0.0,
+                    "_Roughness": 0.5,
+                    "_Scale": 0.25,
+                    "_Style": 0,
+                    "_Thickness": 1.0,
+                    "_VerticalPosition": 0.0,
+                    "_VerticalScale": 0.25,
+                    "_VerticalTiling": 1,
+                    "type": "app.charaedit.ch000.Tattoos.SlotData"
+                }
+            ],
+            "type": "app.BodyDetailContext.TattoosContext"
+        },
+        "_Teeth": {
+            "_Color": "255,255,255,255",
+            "_DirtColor": "108,108,108,255",
+            "_DirtOpacity": 0.0,
+            "_DirtRange": 1.0,
+            "_DirtRoughness": 0.5,
+            "_Opacity": 1.0,
+            "_TeethEnable": 65535,
+            "type": "app.BodyDetailContext.TeethContext"
+        }
+    },
+    "BodyEditor._BodyEditContext": {
+        "<IsStore>k__BackingField": true,
+        "RestoredType": 0,
+        "_EditLimited": false,
+        "_EditValues": [
+            {
+                "_EditKeyHash": 932575279,
+                "_Value": -14.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2092571651,
+                "_Value": 7.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3288601300,
+                "_Value": 13.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1061052512,
+                "_Value": 10.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3702242246,
+                "_Value": 15.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1766348416,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3517878099,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3827629560,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 4099443574,
+                "_Value": 10.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1332362251,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 323033925,
+                "_Value": -19.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1137593827,
+                "_Value": 11.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1458806590,
+                "_Value": 40.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 175188792,
+                "_Value": 30.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 4206130288,
+                "_Value": 20.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1638947135,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2157976120,
+                "_Value": -16.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 4206872559,
+                "_Value": 26.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2846328871,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1673052757,
+                "_Value": 2.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 4061319525,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3467158119,
+                "_Value": -25.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2908557143,
+                "_Value": -42.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2640155802,
+                "_Value": -10.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2127619803,
+                "_Value": -10.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 750713856,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1757076811,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 762781798,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 389874767,
+                "_Value": -50.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 286753722,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1497737450,
+                "_Value": 170.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2964025353,
+                "_Value": -25.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3845860653,
+                "_Value": -32.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 813011489,
+                "_Value": 15.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3572613277,
+                "_Value": -2.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            }
+        ]
+    },
+    "BodyEditor._PretenderContext": {
+        "<IsStore>k__BackingField": true,
+        "RestoredType": 0,
+        "_Age": 0.0,
+        "_SexLowerBody": 0.09999999403953552,
+        "_SexUpperBody": -0.25,
+        "_SpineBend": 0.22999998927116394
+    },
+    "HeadFaceEditor._Context": {
+        "<IsStore>k__BackingField": true,
+        "RestoredType": 0,
+        "_EditValues": [
+            {
+                "_EditKeyHash": 2188461431,
+                "_Value": -30.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 669427638,
+                "_Value": -50.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1815780215,
+                "_Value": -9.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1823918496,
+                "_Value": -45.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1519356681,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3082776786,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 4091188551,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2512602705,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 657053047,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1622622273,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 186632296,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 191100231,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1521111606,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2101912853,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2097873461,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2992141810,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 358814321,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 98681257,
+                "_Value": 20.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2564978917,
+                "_Value": 10.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2151982020,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1660526720,
+                "_Value": -95.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3852219371,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2716411241,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2214584548,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2878920572,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2277846095,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1764455332,
+                "_Value": 20.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 413512150,
+                "_Value": 50.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3378237572,
+                "_Value": 54.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 4096771389,
+                "_Value": 57.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 231405082,
+                "_Value": -15.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1264805421,
+                "_Value": 90.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2469013205,
+                "_Value": -30.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1072516754,
+                "_Value": 20.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 579849303,
+                "_Value": -40.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2965921069,
+                "_Value": -10.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 4261632564,
+                "_Value": -55.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3756815236,
+                "_Value": -25.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3546631858,
+                "_Value": -7.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2834081594,
+                "_Value": -100.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2301721922,
+                "_Value": -35.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3628498915,
+                "_Value": -50.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 831368101,
+                "_Value": -55.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1966346382,
+                "_Value": -25.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3247482459,
+                "_Value": 35.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1287495149,
+                "_Value": -50.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 874754440,
+                "_Value": -10.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 410541958,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1261271190,
+                "_Value": -56.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3188263889,
+                "_Value": -100.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2977069815,
+                "_Value": 17.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 466880228,
+                "_Value": 20.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1610035873,
+                "_Value": 35.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3108986950,
+                "_Value": -25.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 349738057,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3796006293,
+                "_Value": 35.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 926082906,
+                "_Value": -5.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 4259420635,
+                "_Value": 0.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 906993695,
+                "_Value": -30.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3217659067,
+                "_Value": -42.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2584321789,
+                "_Value": -70.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2442394521,
+                "_Value": -40.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2033264164,
+                "_Value": -5.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2267661055,
+                "_Value": 15.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 513398874,
+                "_Value": 45.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2294092385,
+                "_Value": -5.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 2787842421,
+                "_Value": 10.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3529503322,
+                "_Value": -50.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 1661303381,
+                "_Value": -10.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 3156291298,
+                "_Value": 25.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            },
+            {
+                "_EditKeyHash": 945651450,
+                "_Value": -45.0,
+                "type": "app.CharacterEditDefine.EditValue"
+            }
+        ]
+    },
+    "PartSwapper._HumanContext": {
+        "<IsStore>k__BackingField": true,
+        "RestoredType": 0,
+        "_Meta": {
+            "_BackpackStyle": 0,
+            "_BeardStyle": 0,
+            "_BodyHairStyle": 0,
+            "_CheekStyle": 4027190269,
+            "_EyeLeftStyle": 0,
+            "_EyeRightStyle": 0,
+            "_EyeStyle": 1559059104,
+            "_EyebrowStyle": 4111826314,
+            "_EyelashStyle": 3544829736,
+            "_EyelinerStyle": 2286119078,
+            "_EyeshadowStyle": 3807893826,
+            "_FacewearStyle": 0,
+            "_FacewearVariationStyle": 0,
+            "_FrecklesStyle": 0,
+            "_FurCheekStyle": 0,
+            "_FurEyeStyle": 0,
+            "_FurFaceStyle": 0,
+            "_FurForeheadStyle": 0,
+            "_FurNoseStyle": 0,
+            "_FurPattern": 2178002424,
+            "_FurStyle": 2227058050,
+            "_Gender": 1910070090,
+            "_HairStyle": 753671400,
+            "_HeadStyle": 2240620747,
+            "_HelmStyle": 0,
+            "_HelmVariationStyle": 0,
+            "_LipStyle": 3890703172,
+            "_Locked": 0,
+            "_MantleStyle": 0,
+            "_MantleVariationStyle": 0,
+            "_MuscleStyle": 3889743650,
+            "_NoseStyle": 0,
+            "_PantsStyle": 0,
+            "_PantsVariationStyle": 0,
+            "_SkinStyle": 3812641760,
+            "_SpecialScar": 3858243771,
+            "_Species": 2501532887,
+            "_TopsStyle": 0,
+            "_TopsVariationStyle": 0,
+            "_UnderwearStyle": 905051872,
+            "_UnderwearVariationStyle": 0,
+            "type": "app.CharacterEditDefine.MetaData"
+        },
+        "_VisorSwitch": 0
+    }
+}

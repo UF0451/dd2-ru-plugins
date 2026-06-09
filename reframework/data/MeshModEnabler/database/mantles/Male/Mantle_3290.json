@@ -1,0 +1,13 @@
+{
+    "_Gender": "Male",
+    "_HelmHideParts": "NONE",
+    "_JointOffset": 0.029999999329447746,
+    "_MantleStyle": "Mantle_3290",
+    "_MeshID": "mantle_019_m",
+    "_PartsEnable": "ALL",
+    "_SkinID": "mantle_019_m",
+    "_TopsAmHideParts": "NONE",
+    "_TopsBdHideParts": "NONE",
+    "_UseChain": true,
+    "_UseGpuCloth": true
+}

@@ -1,0 +1,9 @@
+{
+    "mesh_id": 2976651554,
+    "skin_id": 2976651554,
+    "mesh_pfb_path": "AppSystem/charaedit/ch000/parts/tops/bd/mesh/tops_036_bd_f.pfb",
+    "skin_pfb_path": "AppSystem/TopsWb/skin/tops_CreedboundArmorSkirtPhy2_wb_f.pfb",
+    "chain_pfb_path": "nil",
+    "clsp_pfb_path": "AppSystem/charaedit/ch000/parts/tops/bd/clsp/tops_036_bd_f.pfb",
+    "gpuc_pfb_path": "AppSystem/charaedit/ch000/parts/tops/bd/gpucloth/tops_036_bd_f.pfb"
+}

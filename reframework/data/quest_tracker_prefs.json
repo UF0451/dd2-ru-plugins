@@ -1,0 +1,27 @@
+{
+    "debug_logging": false,
+    "eliminated_overrides": null,
+    "giver_overrides": null,
+    "highlight_recent": true,
+    "label_pins": true,
+    "manual_pos_overrides": {
+        "10130": {
+            "x": 493.6678524017334,
+            "y": 24.03145408630371,
+            "z": -1054.8574981689453
+        },
+        "20110": {
+            "x": 751.2580432891846,
+            "y": 17.635848999023438,
+            "z": -1393.9727964401245
+        },
+        "30180": {
+            "x": 491.5715389251709,
+            "y": 46.25456237792969,
+            "z": -921.6404781341553
+        }
+    },
+    "show_window": true,
+    "sort_mode": 1,
+    "tab": 2
+}

@@ -1,0 +1,9 @@
+{
+    "mesh_id": 2976675114,
+    "skin_id": 2976675114,
+    "mesh_pfb_path": "AppSystem/PantsWl/mesh/pants_BushRaiders_wl_f.pfb",
+    "skin_pfb_path": "AppSystem/PantsWl/skin/pants_BushRaiders_wl_f.pfb",
+    "chain_pfb_path": "AppSystem/PantsWl/chain/pants_BushRaiders_wl_f.pfb",
+    "clsp_pfb_path": "nil",
+    "gpuc_pfb_path": "nil"
+}

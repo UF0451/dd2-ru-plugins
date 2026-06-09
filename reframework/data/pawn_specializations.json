@@ -1,0 +1,7 @@
+{
+    "enable_logistician": true,
+    "logistician_auto_mix": true,
+    "logistician_auto_move": true,
+    "logistician_timer": 30.0,
+    "unlock_all_specs": true
+}

@@ -1,0 +1,18 @@
+{
+    "allowAutoJsonCache": true,
+    "hotkeys": {
+        "Emissive Highlighting": "E",
+        "Modifier": "LControl",
+        "Save Presets": "S",
+        "Update Preset Lists": "U"
+    },
+    "isDEBUG": false,
+    "isEmissiveHighlightEnabled": false,
+    "showMDFPath": true,
+    "showMDFXLConsole": true,
+    "showMaterialCount": true,
+    "showMeshName": true,
+    "showMeshPath": true,
+    "showPresetPath": false,
+    "use_modifier": true
+}

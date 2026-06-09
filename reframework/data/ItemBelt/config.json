@@ -1,0 +1,23 @@
+{
+    "img_size": 79,
+    "kb_confirm": "70",
+    "kb_grim": "66",
+    "kb_heal": "90",
+    "kb_mod": "nil",
+    "kb_slot1": "97",
+    "kb_slot10": "107",
+    "kb_slot11": "109",
+    "kb_slot12": "106",
+    "kb_slot2": "98",
+    "kb_slot3": "99",
+    "kb_slot4": "100",
+    "kb_slot5": "101",
+    "kb_slot6": "102",
+    "kb_slot7": "103",
+    "kb_slot8": "104",
+    "kb_slot9": "105",
+    "kb_tool": "78",
+    "kb_util": "72",
+    "opa": 0.5,
+    "pos": 0.09000000357627869
+}

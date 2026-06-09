@@ -1,0 +1,9 @@
+{
+    "enabled": false,
+    "ignoreArmorAndWeapon": false,
+    "ignoreArmorAndWeaponSpecialEffect": false,
+    "newlinewidth": 55,
+    "newlinewidthaffectoriginaltext": false,
+    "removeOriginalText": false,
+    "specifyTransFile": "Russian"
+}

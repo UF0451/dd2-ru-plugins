@@ -1,0 +1,9 @@
+{
+	"mesh_id": 29766277074,
+    "skin_id": 29766277074,
+    "mesh_pfb_path": "AppSystem/TopsBd/mesh/tops_DisasDress_bd_f.pfb",
+    "skin_pfb_path": "AppSystem/TopsBd/skin/tops_DisasDress_bd_f.pfb",
+    "chain_pfb_path": "AppSystem/TopsBd/chain/tops_DisasDress_bd_f.pfb",
+    "clsp_pfb_path": "AppSystem/TopsBd/clsp/tops_DisasDress_bd_f.pfb",
+    "gpuc_pfb_path": "nil"
+}

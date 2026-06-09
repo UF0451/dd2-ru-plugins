@@ -1,0 +1,9 @@
+{
+    "mesh_id": 2976676034,
+    "skin_id": 2976676034,
+    "mesh_pfb_path": "AppSystem/TopsBd/mesh/tops_GrandSurcoat_bd_f.pfb",
+    "skin_pfb_path": "AppSystem/TopsBd/skin/tops_Grandsurcoat_bd_f.pfb",
+    "chain_pfb_path": "AppSystem/TopsBd/chain/tops_Grandsurcoat_bd_f.pfb",
+    "clsp_pfb_path": "AppSystem/TopsBd/clsp/tops_Grandsurcoat_bd_f.pfb",
+    "gpuc_pfb_path": "nil"
+}

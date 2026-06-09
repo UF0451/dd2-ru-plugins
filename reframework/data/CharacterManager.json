@@ -1,0 +1,7 @@
+{
+    "hotkeys": {
+        "loadHotkeyPrefix": "NumPad",
+        "showWindowHotkey": "NumPad0"
+    },
+    "ignoreLoadEquipments": true
+}

@@ -1,0 +1,8 @@
+{
+    "block_job01_tusk_toss": true,
+    "block_job05_prepare_normal_attack": true,
+    "block_jobmagicuser_prepare_normal_shot": true,
+    "enabled": false,
+    "gungnir_multiplier": 10.0,
+    "instant_gungnir": true
+}

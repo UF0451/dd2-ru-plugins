@@ -1,0 +1,9 @@
+{
+    "mesh_id": 2976675963,
+    "skin_id": 2976675963,
+    "mesh_pfb_path": "AppSystem/TopsWb/mesh/tops_MajesticArmor_wb_f.pfb",
+    "skin_pfb_path": "AppSystem/TopsWb/skin/tops_MajesticArmor_wb_f.pfb",
+    "chain_pfb_path": "AppSystem/TopsWb/chain/tops_MajesticArmor_wb_f.pfb",
+    "clsp_pfb_path": "nil",
+    "gpuc_pfb_path": "nil"
+}

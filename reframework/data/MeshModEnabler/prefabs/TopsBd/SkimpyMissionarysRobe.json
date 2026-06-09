@@ -1,0 +1,9 @@
+{
+    "mesh_id": 2976675933,
+    "skin_id": 2976675933,
+    "mesh_pfb_path": "AppSystem/TopsBd/mesh/tops_MissionaryRobe_bd_f.pfb",
+    "skin_pfb_path": "AppSystem/TopsBd/skin/tops_MissionaryRobe_bd_f.pfb",
+    "chain_pfb_path": "AppSystem/TopsBd/chain/tops_MissionaryRobe_bd_f.pfb",
+    "clsp_pfb_path": "AppSystem/TopsBd/clsp/tops_MissionaryRobe_bd_f.pfb",
+    "gpuc_pfb_path": "nil"
+}

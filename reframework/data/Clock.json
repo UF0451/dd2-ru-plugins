@@ -1,0 +1,17 @@
+{
+    "backgroundcolor": 2289530743,
+    "color": 4293848814,
+    "customFormat": "{D} Day{T} {h}:{m}:{s} {a}",
+    "disableInMenu": false,
+    "enable": true,
+    "enableHotkey": "Delete",
+    "fontsize": 28,
+    "offset": [
+        34,
+        50
+    ],
+    "showbackground": false,
+    "showtimeslot": false,
+    "useAMPM": false,
+    "zerofill": true
+}

@@ -1,0 +1,13 @@
+{
+    "disableOnBattle": false,
+    "lootBody": true,
+    "lootBodyPart": true,
+    "lootChest": true,
+    "lootDirectItem": true,
+    "lootDropItem": true,
+    "lootGatherSpot": true,
+    "lootSeekerToken": true,
+    "messageFontsize": 18,
+    "range": 30,
+    "showLootMessage": false
+}

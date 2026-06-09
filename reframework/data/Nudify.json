@@ -1,0 +1,40 @@
+{
+    "EnableList": {
+        "Female": 1,
+        "Male": 1
+    },
+    "NPCs": {
+        "Brant": "ch310006",
+        "Disa": "ch310004",
+        "Doireann": "ch310019",
+        "Elena": "ch310033",
+        "Glyndwr": "ch310017",
+        "Nadinia": "ch310034",
+        "Phaesus": "ch310009",
+        "Raghnall": "ch310078",
+        "Sara": "ch310025",
+        "Sven": "ch310003",
+        "Ulrika": "ch310073",
+        "Wilhelmina": "ch310002"
+    },
+    "Party": {
+        "ch000000_00": {
+            "Option": 1
+        },
+        "ch100000_00": {
+            "Name": "Фрида",
+            "Option": 1,
+            "PawnID": 0
+        },
+        "ch110021": {
+            "Name": "Darshe",
+            "Option": 1,
+            "PawnID": 1
+        },
+        "ch110034": {
+            "Name": "Smudge",
+            "Option": 1,
+            "PawnID": 2
+        }
+    }
+}

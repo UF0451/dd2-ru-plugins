@@ -1,0 +1,4 @@
+natives/stm/gui/ui01/common/item/c00/tex_ui01c00_00_iam.tex.760230703
+natives/stm/gui/ui01/common/item/c00/tex_ui01c00_01_iam.tex.760230703
+natives/stm/gui/ui01/common/item/c00/tex_ui01c00_02_iam.tex.760230703
+natives/stm/gui/ui01/common/item/c00/tex_ui01c00_03_iam.tex.760230703

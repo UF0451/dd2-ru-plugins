@@ -1,0 +1,13 @@
+{
+    "_Gender": "Female",
+    "_HelmHideParts": "NONE",
+    "_JointOffset": 0.0,
+    "_MantleStyle": "Mantle_006",
+    "_MeshID": "mantle_006_f",
+    "_PartsEnable": 1026,
+    "_SkinID": "mantle_006_m",
+    "_TopsAmHideParts": 235110400,
+    "_TopsBdHideParts": 772506608,
+    "_UseChain": true,
+    "_UseGpuCloth": true
+}

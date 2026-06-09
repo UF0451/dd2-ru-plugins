@@ -1,0 +1,4681 @@
+{
+    "Enabled": [
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "Materials": {
+        "am_051_0_0_Iron_mat": {
+            "AlphaTestRef": [
+                0.5
+            ],
+            "BaseColor": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "BaseDetail_TilingScale": [
+                2.0
+            ],
+            "BrainwashRate": [
+                0.0
+            ],
+            "Brainwash_Color": [
+                [
+                    0.10196078568696976,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "Brainwash_LightInfulence": [
+                0.20000000298023224
+            ],
+            "Brainwash_MaskLevel": [
+                [
+                    0.0,
+                    0.8999999761581421,
+                    1.0,
+                    0.0
+                ]
+            ],
+            "CavityMap_UseSecondaryUV": [
+                0.0
+            ],
+            "CorruptionMap_Tiling": [
+                [
+                    4.5,
+                    4.5,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "CorruptionRate": [
+                0.0
+            ],
+            "Corruption_Blur": [
+                0.4000000059604645
+            ],
+            "Corruption_Color": [
+                [
+                    1.0,
+                    0.019607843831181526,
+                    0.26274511218070984,
+                    1.0
+                ]
+            ],
+            "Corruption_Roughness": [
+                1.0
+            ],
+            "Corruption_TexColorA": [
+                [
+                    0.01568627543747425,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "Corruption_TexColorB": [
+                [
+                    0.3137255012989044,
+                    0.09803921729326248,
+                    0.09803921729326248,
+                    1.0
+                ]
+            ],
+            "Corruption_TexColorGrad": [
+                1.7599999904632568
+            ],
+            "DetailColorIntensity": [
+                0.4300000071525574
+            ],
+            "DetailColorInvert": [
+                1.0
+            ],
+            "DetailColorMode": [
+                0.13900001347064972
+            ],
+            "DetailMap_Rotation": [
+                0.0
+            ],
+            "DetailMap_Tiling_Offset": [
+                [
+                    4.0,
+                    8.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "DetailMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Detail_Cavity": [
+                0.009999999776482582
+            ],
+            "Detail_Fade_StartEnd": [
+                [
+                    20.0,
+                    50.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Detail_MetalicMode": [
+                0.0
+            ],
+            "Detail_Metallic": [
+                1.0
+            ],
+            "Detail_MetallicColor": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ]
+            ],
+            "Detail_MetallicColor_Override": [
+                1.0
+            ],
+            "Detail_NormalBlend": [
+                0.30000001192092896
+            ],
+            "Detail_RoughnessBlend": [
+                0.44999998807907104
+            ],
+            "DirtColor1": [
+                [
+                    0.729411780834198,
+                    0.5490196347236633,
+                    0.4627451002597809,
+                    1.0
+                ]
+            ],
+            "DirtColor2": [
+                [
+                    0.6196078658103943,
+                    0.6196078658103943,
+                    0.4431372582912445,
+                    1.0
+                ]
+            ],
+            "DirtColor3": [
+                [
+                    0.34117648005485535,
+                    0.29019609093666077,
+                    0.2235294133424759,
+                    1.0
+                ]
+            ],
+            "DirtColorControl": [
+                0.5600000023841858
+            ],
+            "DirtColor_AddBlend": [
+                0.0
+            ],
+            "DirtColor_Overwrite": [
+                0.0
+            ],
+            "DirtMask_Brightness": [
+                0.5
+            ],
+            "DirtMask_Contrast": [
+                0.10999999940395355
+            ],
+            "DirtMask_SeparateMetalGrad": [
+                0.0
+            ],
+            "DirtWearMap_Intensity": [
+                1.0
+            ],
+            "DirtWearMap_Inverse": [
+                0.0
+            ],
+            "DirtWearMap_UseFixedUV": [
+                0.0
+            ],
+            "DirtWearMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Dirt_Enable": [
+                1.0
+            ],
+            "Dirt_Metallic": [
+                0.699999988079071
+            ],
+            "Dirt_Roughness": [
+                1.3000000715255737
+            ],
+            "Dirt_SpecularReflectance": [
+                1.0
+            ],
+            "DissolveRate": [
+                0.0
+            ],
+            "DitherFadeGrad_Max": [
+                1.0
+            ],
+            "DitherFadeGrad_Min": [
+                0.0
+            ],
+            "DitherFadeGrad_Rate": [
+                1.0
+            ],
+            "DitherFadePosY_Range": [
+                1.0
+            ],
+            "DitherFadePosY_Rate": [
+                1.0
+            ],
+            "DitherFadePosY_Start": [
+                0.0
+            ],
+            "DitherFadeRate": [
+                1.0
+            ],
+            "DitherFadeRate2": [
+                1.0
+            ],
+            "DragonGrade_ColoCurve": [
+                3.0
+            ],
+            "DragonGrade_Color1": [
+                [
+                    0.5686274766921997,
+                    0.5137255191802979,
+                    0.5137255191802979,
+                    1.0
+                ]
+            ],
+            "DragonGrade_Color2": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "DragonGrade_Emissive_Intensity": [
+                0.0
+            ],
+            "DragonGrade_Enable": [
+                0.0
+            ],
+            "DragonGrade_Level_Max": [
+                0.75
+            ],
+            "DragonGrade_Level_Min": [
+                0.20999999344348907
+            ],
+            "DragonGrade_NoiseAnimSpeed": [
+                0.30000001192092896
+            ],
+            "DragonGrade_NoiseBlend": [
+                0.5
+            ],
+            "DragonGrade_Opacity": [
+                1.0
+            ],
+            "DragonGrade_RimBlend": [
+                1.0
+            ],
+            "DragonGrade_RimGrad": [
+                0.8999999761581421
+            ],
+            "DragonGrade_RoughnessControl": [
+                0.6000000238418579
+            ],
+            "DustCover_Color_B": [
+                [
+                    0.14901961386203766,
+                    0.09019608050584793,
+                    0.06666667014360428,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_Base": [
+                [
+                    0.16078431904315948,
+                    0.12156862765550613,
+                    0.10980392247438431,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_G": [
+                [
+                    0.06666667014360428,
+                    0.0784313753247261,
+                    0.019607843831181526,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_R": [
+                [
+                    0.3019607961177826,
+                    0.25882354378700256,
+                    0.21176470816135406,
+                    1.0
+                ]
+            ],
+            "DustCover_Rate": [
+                0.0
+            ],
+            "DustCover_Tiling": [
+                [
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Dusty_Color1": [
+                [
+                    0.20392157137393951,
+                    0.15294118225574493,
+                    0.11764705926179886,
+                    0.8901960849761963
+                ]
+            ],
+            "Dusty_Color2": [
+                [
+                    0.027450980618596077,
+                    0.0235294122248888,
+                    0.019607843831181526,
+                    0.8901960849761963
+                ]
+            ],
+            "Dusty_ColorCurve": [
+                2.0
+            ],
+            "Dusty_DensityCurve": [
+                0.5
+            ],
+            "Dusty_MaskLevel": [
+                [
+                    -0.5,
+                    1.5000001192092896,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Dusty_Max": [
+                0.5
+            ],
+            "Dusty_Rate": [
+                0.009999999776482582
+            ],
+            "EmissiveColor1": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "EmissiveColor2": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "EmissiveColorGrad": [
+                1.0
+            ],
+            "Emissive_DetoneMapBlend": [
+                1.0
+            ],
+            "Emissive_Enable": [
+                0.0
+            ],
+            "Emissive_Intensity": [
+                1.0
+            ],
+            "Enable_ExtraPatternMap": [
+                0.0
+            ],
+            "EquiipmentVfxMap_UseSecondaryUV": [
+                1.0
+            ],
+            "EventBlood_Color": [
+                [
+                    0.08235294371843338,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "EventBlood_Metallic": [
+                0.0
+            ],
+            "EventBlood_NormalWeaken": [
+                0.0
+            ],
+            "EventBlood_Rate": [
+                0.0
+            ],
+            "EventBlood_Roughness": [
+                0.10000000149011612
+            ],
+            "EventBlood_SpecularReflectance": [
+                1.0
+            ],
+            "EventBlood_UseSecondaryUV": [
+                1.0
+            ],
+            "ExtraPatternMap_Color": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "ExtraPatternMap_DetailNormalBlend": [
+                0.0
+            ],
+            "ExtraPatternMap_Metallic": [
+                1.0
+            ],
+            "ExtraPatternMap_Offset_U": [
+                0.0
+            ],
+            "ExtraPatternMap_Offset_V": [
+                0.0
+            ],
+            "ExtraPatternMap_Ratio": [
+                1.0
+            ],
+            "ExtraPatternMap_Rotation": [
+                0.0
+            ],
+            "ExtraPatternMap_Roughness": [
+                1.0
+            ],
+            "ExtraPatternMap_Scale": [
+                0.10000000149011612
+            ],
+            "ExtraPatternMap_UVRectArea": [
+                [
+                    0.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "ExtraPatternMap_UseSecondaryUV": [
+                0.0
+            ],
+            "FadeChecker": [
+                1.0
+            ],
+            "FadeIndex": [
+                3.0
+            ],
+            "Heat_AnimBlend": [
+                0.5
+            ],
+            "Heat_AnimSec": [
+                2.0
+            ],
+            "Heat_BaseColor": [
+                [
+                    0.11764705926179886,
+                    0.09803921729326248,
+                    0.09803921729326248,
+                    1.0
+                ]
+            ],
+            "Heat_Base_FadeRange": [
+                2.0
+            ],
+            "Heat_Base_Rate": [
+                0.0
+            ],
+            "Heat_EmissiveColor1": [
+                [
+                    1.0,
+                    0.11764705926179886,
+                    0.03921568766236305,
+                    1.0
+                ]
+            ],
+            "Heat_EmissiveColor2": [
+                [
+                    1.0,
+                    0.5882353186607361,
+                    0.03921568766236305,
+                    1.0
+                ]
+            ],
+            "Heat_EmissiveColorGrad": [
+                1.5
+            ],
+            "Heat_EmissiveColorToAlbedo": [
+                4.0
+            ],
+            "Heat_Emissive_FadeRange": [
+                1.5
+            ],
+            "Heat_Emissive_Intensity": [
+                1.0
+            ],
+            "Heat_Emissive_Rate": [
+                0.0
+            ],
+            "Heat_Emissive_Threshold": [
+                0.12999999523162842
+            ],
+            "Heat_IsFreeze": [
+                0.0
+            ],
+            "Heat_SeamMaskBlend": [
+                1.0
+            ],
+            "Heat_SeamNoiseRate": [
+                0.10000000149011612
+            ],
+            "Ignore_AlphaMap": [
+                0.0
+            ],
+            "Illusion_AlphaRate_Front": [
+                0.800000011920929
+            ],
+            "Illusion_AlphaRate_Rim": [
+                0.0
+            ],
+            "Illusion_Enable": [
+                0.0
+            ],
+            "Illusion_FadeRate": [
+                1.0
+            ],
+            "Illusion_Fade_BlurRange": [
+                0.5
+            ],
+            "Illusion_Fade_Invert": [
+                0.0
+            ],
+            "Illusion_Noise3d_Scale": [
+                [
+                    0.5,
+                    0.30000001192092896,
+                    0.5,
+                    0.0
+                ]
+            ],
+            "Illusion_Noise3d_Speed": [
+                -0.05999999865889549
+            ],
+            "Illusion_NoiseBlend": [
+                0.5
+            ],
+            "Illusion_RimAlphaGrad": [
+                1.0
+            ],
+            "Illusion_VertexNoise3d_Intensity": [
+                [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.0
+                ]
+            ],
+            "Illusion_VertexNoise3d_Scale": [
+                [
+                    0.20000000298023224,
+                    0.20000000298023224,
+                    0.20000000298023224,
+                    0.0
+                ]
+            ],
+            "Illusion_VertexNoise3d_Speed": [
+                0.15000000596046448
+            ],
+            "MaskMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Metallic": [
+                1.0
+            ],
+            "OcclusionMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Oil_Blend": [
+                1.0
+            ],
+            "Oil_Enable": [
+                0.0
+            ],
+            "Oil_Thickness": [
+                1.0
+            ],
+            "Oil_UseMask": [
+                0.0
+            ],
+            "Petrification_Color1": [
+                [
+                    0.0508774109184742,
+                    0.0508774109184742,
+                    0.0508774109184742,
+                    1.0
+                ]
+            ],
+            "Petrification_Color2": [
+                [
+                    0.6232205033302307,
+                    0.6232205033302307,
+                    0.6232205033302307,
+                    1.0
+                ]
+            ],
+            "Petrification_ColorGrad": [
+                2.700000047683716
+            ],
+            "Petrification_Emissive_Intensity": [
+                0.054999999701976776
+            ],
+            "Petrification_FadeRange": [
+                0.10000000149011612
+            ],
+            "Petrification_Rate": [
+                0.0
+            ],
+            "Petrification_Rate_MI": [
+                0.0
+            ],
+            "Petrification_Roughness": [
+                0.800000011920929
+            ],
+            "Poison_AnimBlend": [
+                0.27000001072883606
+            ],
+            "Poison_AnimSec": [
+                1.600000023841858
+            ],
+            "Poison_Base_Color": [
+                [
+                    0.27450981736183167,
+                    0.1764705926179886,
+                    0.23529411852359772,
+                    1.0
+                ]
+            ],
+            "Poison_Base_FadeRange": [
+                1.600000023841858
+            ],
+            "Poison_Base_Rate": [
+                0.0
+            ],
+            "Poison_EmissiveColorToAlbedo": [
+                2.5
+            ],
+            "Poison_Emissive_Color1": [
+                [
+                    0.11764705926179886,
+                    0.027450980618596077,
+                    0.10980392247438431,
+                    1.0
+                ]
+            ],
+            "Poison_Emissive_Color2": [
+                [
+                    0.23529411852359772,
+                    0.19607843458652496,
+                    0.27450981736183167,
+                    1.0
+                ]
+            ],
+            "Poison_Emissive_ColorGrad": [
+                1.0
+            ],
+            "Poison_Emissive_FadeRange": [
+                3.0
+            ],
+            "Poison_Emissive_Intensity": [
+                0.0010000000474974513
+            ],
+            "Poison_Emissive_Rate": [
+                0.0
+            ],
+            "Poison_Emissive_Threshold": [
+                0.4300000071525574
+            ],
+            "Poison_SeamMaskBlend": [
+                1.0
+            ],
+            "Poison_SeamNoiseRate": [
+                0.6000000238418579
+            ],
+            "RainRipple_Scale": [
+                1.0
+            ],
+            "Restraint_Intensity": [
+                0.0
+            ],
+            "Restraint_Scale": [
+                1.5
+            ],
+            "Restraint_Speed": [
+                [
+                    0.0,
+                    -1.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "RimColor": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimColorDetail": [
+                0.0
+            ],
+            "RimColorGrad": [
+                5.0
+            ],
+            "RimColorIntensity": [
+                0.0
+            ],
+            "RimDither_Curve": [
+                1.0
+            ],
+            "RimDither_Rate": [
+                0.0
+            ],
+            "RimLightGrad": [
+                1.0
+            ],
+            "RimLight_Adjustment": [
+                1.0
+            ],
+            "RimLight_AnimCurve": [
+                1.0
+            ],
+            "RimLight_AnimOffset_B": [
+                0.0
+            ],
+            "RimLight_AnimRate_A": [
+                0.0
+            ],
+            "RimLight_AnimRate_B": [
+                0.0
+            ],
+            "RimLight_AnimSpeed_A": [
+                1.0
+            ],
+            "RimLight_AnimSpeed_B": [
+                1.0
+            ],
+            "RimLight_EmissiveColorToAlbedo": [
+                0.0
+            ],
+            "RimLight_Emissive_BaseColorBlend": [
+                0.0
+            ],
+            "RimLight_Emissive_Color_A": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimLight_Emissive_Color_B": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimLight_Emissive_Curve": [
+                1.0
+            ],
+            "RimLight_Emissive_intensity": [
+                0.0
+            ],
+            "RimLight_Mask_Curve": [
+                1.0
+            ],
+            "RimLight_Mask_Invert": [
+                0.0
+            ],
+            "RimLight_Mask_Rate": [
+                0.0
+            ],
+            "RimLight_OverDetonemap": [
+                0.0
+            ],
+            "RimTranslucency": [
+                0.0
+            ],
+            "Roughness": [
+                1.100000023841858
+            ],
+            "SSSChannel": [
+                0.0
+            ],
+            "ShadingRate": [
+                0.0
+            ],
+            "SpecularReflectance": [
+                1.0
+            ],
+            "Translucency": [
+                0.0
+            ],
+            "UseUniqueNoiseMap": [
+                0.0
+            ],
+            "Use_RimLightEmissive": [
+                0.0
+            ],
+            "Velvet_DetailNormal": [
+                1.0
+            ],
+            "Velvet_Enable": [
+                0.0
+            ],
+            "Velvet_RimColorGrad": [
+                4.0
+            ],
+            "Velvet_RimColorIntensity": [
+                0.10000000149011612
+            ],
+            "Velvet_ShadingBias": [
+                4.0
+            ],
+            "Velvet_ShadingGrad": [
+                2.0
+            ],
+            "Velvet_ShadingIntensity": [
+                0.5
+            ],
+            "Velvet_UseMaskMap": [
+                0.0
+            ],
+            "VfxTexture_UseSecondaryUV": [
+                1.0
+            ],
+            "Vfx_NoiseMap_Tiling_Offset": [
+                [
+                    1.0,
+                    1.0,
+                    0.148686945438385,
+                    0.148686945438385
+                ]
+            ],
+            "Vfx_PatternMap_Tiling_Offset": [
+                [
+                    3.5,
+                    3.5,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Vfx_PetrificationMap_Tiling_Offset": [
+                [
+                    1.2999999523162842,
+                    1.0,
+                    0.148686945438385,
+                    0.148686945438385
+                ]
+            ],
+            "Vfx_Texture_TilingScale": [
+                [
+                    0.6613821983337402,
+                    1.1815139055252075,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "WearMap_Tiling_Offset": [
+                [
+                    5.0,
+                    10.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "WetParamIndex": [
+                10.0
+            ],
+            "Wet_Color": [
+                [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ]
+            ],
+            "Wet_Oil_Color": [
+                [
+                    0.0313725508749485,
+                    0.0235294122248888,
+                    0.007843137718737125,
+                    1.0
+                ]
+            ],
+            "Wet_Oil_Rate": [
+                0.0
+            ],
+            "Wet_Oil_SpectrumBlend": [
+                0.5
+            ],
+            "Wet_Oil_Thickness": [
+                0.4099999964237213
+            ],
+            "Wet_Overall_Rate": [
+                0.0
+            ],
+            "Wet_Params": [
+                [
+                    1.0,
+                    0.5,
+                    0.800000011920929,
+                    0.5099999904632568
+                ]
+            ]
+        },
+        "am_051_0_0_Leather_mat": {
+            "AlphaTestRef": [
+                0.5
+            ],
+            "BaseColor": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "BaseDetail_TilingScale": [
+                1.0
+            ],
+            "BrainwashRate": [
+                0.0
+            ],
+            "Brainwash_Color": [
+                [
+                    0.10196078568696976,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "Brainwash_LightInfulence": [
+                0.20000000298023224
+            ],
+            "Brainwash_MaskLevel": [
+                [
+                    0.0,
+                    0.8999999761581421,
+                    1.0,
+                    0.0
+                ]
+            ],
+            "CavityMap_UseSecondaryUV": [
+                0.0
+            ],
+            "CorruptionMap_Tiling": [
+                [
+                    4.5,
+                    4.5,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "CorruptionRate": [
+                0.0
+            ],
+            "Corruption_Blur": [
+                0.4000000059604645
+            ],
+            "Corruption_Color": [
+                [
+                    1.0,
+                    0.019607843831181526,
+                    0.26274511218070984,
+                    1.0
+                ]
+            ],
+            "Corruption_Roughness": [
+                1.0
+            ],
+            "Corruption_TexColorA": [
+                [
+                    0.01568627543747425,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "Corruption_TexColorB": [
+                [
+                    0.3137255012989044,
+                    0.09803921729326248,
+                    0.09803921729326248,
+                    1.0
+                ]
+            ],
+            "Corruption_TexColorGrad": [
+                1.7599999904632568
+            ],
+            "DetailColorIntensity": [
+                0.0
+            ],
+            "DetailColorInvert": [
+                0.0
+            ],
+            "DetailColorMode": [
+                0.0
+            ],
+            "DetailMap_Rotation": [
+                0.0
+            ],
+            "DetailMap_Tiling_Offset": [
+                [
+                    5.0,
+                    5.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "DetailMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Detail_Cavity": [
+                0.0
+            ],
+            "Detail_Fade_StartEnd": [
+                [
+                    20.0,
+                    50.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Detail_MetalicMode": [
+                0.0
+            ],
+            "Detail_Metallic": [
+                1.0
+            ],
+            "Detail_MetallicColor": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ]
+            ],
+            "Detail_MetallicColor_Override": [
+                1.0
+            ],
+            "Detail_NormalBlend": [
+                1.0
+            ],
+            "Detail_RoughnessBlend": [
+                0.0
+            ],
+            "DirtColor1": [
+                [
+                    0.8313725590705872,
+                    0.6039215922355652,
+                    0.5333333611488342,
+                    1.0
+                ]
+            ],
+            "DirtColor2": [
+                [
+                    0.7843137383460999,
+                    0.7372549176216125,
+                    0.6823529601097107,
+                    1.0
+                ]
+            ],
+            "DirtColor3": [
+                [
+                    0.4901960790157318,
+                    0.4901960790157318,
+                    0.5333333611488342,
+                    1.0
+                ]
+            ],
+            "DirtColorControl": [
+                1.0
+            ],
+            "DirtColor_AddBlend": [
+                0.0
+            ],
+            "DirtColor_Overwrite": [
+                0.0
+            ],
+            "DirtMask_Brightness": [
+                0.4300000071525574
+            ],
+            "DirtMask_Contrast": [
+                0.20000000298023224
+            ],
+            "DirtMask_SeparateMetalGrad": [
+                0.0
+            ],
+            "DirtWearMap_Intensity": [
+                0.6200000047683716
+            ],
+            "DirtWearMap_Inverse": [
+                0.0
+            ],
+            "DirtWearMap_UseFixedUV": [
+                0.0
+            ],
+            "DirtWearMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Dirt_Enable": [
+                1.0
+            ],
+            "Dirt_Metallic": [
+                1.0
+            ],
+            "Dirt_Roughness": [
+                1.600000023841858
+            ],
+            "Dirt_SpecularReflectance": [
+                1.0
+            ],
+            "DissolveRate": [
+                0.0
+            ],
+            "DitherFadeGrad_Max": [
+                1.0
+            ],
+            "DitherFadeGrad_Min": [
+                0.0
+            ],
+            "DitherFadeGrad_Rate": [
+                1.0
+            ],
+            "DitherFadePosY_Range": [
+                1.0
+            ],
+            "DitherFadePosY_Rate": [
+                1.0
+            ],
+            "DitherFadePosY_Start": [
+                0.0
+            ],
+            "DitherFadeRate": [
+                1.0
+            ],
+            "DitherFadeRate2": [
+                1.0
+            ],
+            "DragonGrade_ColoCurve": [
+                3.0
+            ],
+            "DragonGrade_Color1": [
+                [
+                    0.5686274766921997,
+                    0.5137255191802979,
+                    0.5137255191802979,
+                    1.0
+                ]
+            ],
+            "DragonGrade_Color2": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "DragonGrade_Emissive_Intensity": [
+                0.0
+            ],
+            "DragonGrade_Enable": [
+                0.0
+            ],
+            "DragonGrade_Level_Max": [
+                0.75
+            ],
+            "DragonGrade_Level_Min": [
+                0.20999999344348907
+            ],
+            "DragonGrade_NoiseAnimSpeed": [
+                0.30000001192092896
+            ],
+            "DragonGrade_NoiseBlend": [
+                0.5
+            ],
+            "DragonGrade_Opacity": [
+                1.0
+            ],
+            "DragonGrade_RimBlend": [
+                1.0
+            ],
+            "DragonGrade_RimGrad": [
+                0.8999999761581421
+            ],
+            "DragonGrade_RoughnessControl": [
+                0.6000000238418579
+            ],
+            "DustCover_Color_B": [
+                [
+                    0.14901961386203766,
+                    0.09019608050584793,
+                    0.06666667014360428,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_Base": [
+                [
+                    0.16078431904315948,
+                    0.12156862765550613,
+                    0.10980392247438431,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_G": [
+                [
+                    0.06666667014360428,
+                    0.0784313753247261,
+                    0.019607843831181526,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_R": [
+                [
+                    0.3019607961177826,
+                    0.25882354378700256,
+                    0.21176470816135406,
+                    1.0
+                ]
+            ],
+            "DustCover_Rate": [
+                0.0
+            ],
+            "DustCover_Tiling": [
+                [
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Dusty_Color1": [
+                [
+                    0.20392157137393951,
+                    0.15294118225574493,
+                    0.11764705926179886,
+                    0.8901960849761963
+                ]
+            ],
+            "Dusty_Color2": [
+                [
+                    0.027450980618596077,
+                    0.0235294122248888,
+                    0.019607843831181526,
+                    0.8901960849761963
+                ]
+            ],
+            "Dusty_ColorCurve": [
+                2.0
+            ],
+            "Dusty_DensityCurve": [
+                0.5
+            ],
+            "Dusty_MaskLevel": [
+                [
+                    -0.5,
+                    1.5000001192092896,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Dusty_Max": [
+                0.5
+            ],
+            "Dusty_Rate": [
+                0.009999999776482582
+            ],
+            "EmissiveColor1": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "EmissiveColor2": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "EmissiveColorGrad": [
+                1.0
+            ],
+            "Emissive_DetoneMapBlend": [
+                1.0
+            ],
+            "Emissive_Enable": [
+                0.0
+            ],
+            "Emissive_Intensity": [
+                1.0
+            ],
+            "Enable_ExtraPatternMap": [
+                0.0
+            ],
+            "EquiipmentVfxMap_UseSecondaryUV": [
+                1.0
+            ],
+            "EventBlood_Color": [
+                [
+                    0.08235294371843338,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "EventBlood_Metallic": [
+                0.0
+            ],
+            "EventBlood_NormalWeaken": [
+                0.0
+            ],
+            "EventBlood_Rate": [
+                0.0
+            ],
+            "EventBlood_Roughness": [
+                0.10000000149011612
+            ],
+            "EventBlood_SpecularReflectance": [
+                1.0
+            ],
+            "EventBlood_UseSecondaryUV": [
+                1.0
+            ],
+            "ExtraPatternMap_Color": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "ExtraPatternMap_DetailNormalBlend": [
+                0.0
+            ],
+            "ExtraPatternMap_Metallic": [
+                1.0
+            ],
+            "ExtraPatternMap_Offset_U": [
+                0.0
+            ],
+            "ExtraPatternMap_Offset_V": [
+                0.0
+            ],
+            "ExtraPatternMap_Ratio": [
+                1.0
+            ],
+            "ExtraPatternMap_Rotation": [
+                0.0
+            ],
+            "ExtraPatternMap_Roughness": [
+                1.0
+            ],
+            "ExtraPatternMap_Scale": [
+                0.10000000149011612
+            ],
+            "ExtraPatternMap_UVRectArea": [
+                [
+                    0.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "ExtraPatternMap_UseSecondaryUV": [
+                0.0
+            ],
+            "FadeChecker": [
+                1.0
+            ],
+            "FadeIndex": [
+                3.0
+            ],
+            "Heat_AnimBlend": [
+                0.5
+            ],
+            "Heat_AnimSec": [
+                2.0
+            ],
+            "Heat_BaseColor": [
+                [
+                    0.11764705926179886,
+                    0.09803921729326248,
+                    0.09803921729326248,
+                    1.0
+                ]
+            ],
+            "Heat_Base_FadeRange": [
+                2.0
+            ],
+            "Heat_Base_Rate": [
+                0.0
+            ],
+            "Heat_EmissiveColor1": [
+                [
+                    1.0,
+                    0.11764705926179886,
+                    0.03921568766236305,
+                    1.0
+                ]
+            ],
+            "Heat_EmissiveColor2": [
+                [
+                    1.0,
+                    0.5882353186607361,
+                    0.03921568766236305,
+                    1.0
+                ]
+            ],
+            "Heat_EmissiveColorGrad": [
+                1.5
+            ],
+            "Heat_EmissiveColorToAlbedo": [
+                4.0
+            ],
+            "Heat_Emissive_FadeRange": [
+                1.5
+            ],
+            "Heat_Emissive_Intensity": [
+                1.0
+            ],
+            "Heat_Emissive_Rate": [
+                0.0
+            ],
+            "Heat_Emissive_Threshold": [
+                0.12999999523162842
+            ],
+            "Heat_IsFreeze": [
+                0.0
+            ],
+            "Heat_SeamMaskBlend": [
+                1.0
+            ],
+            "Heat_SeamNoiseRate": [
+                0.10000000149011612
+            ],
+            "Ignore_AlphaMap": [
+                0.0
+            ],
+            "Illusion_AlphaRate_Front": [
+                0.800000011920929
+            ],
+            "Illusion_AlphaRate_Rim": [
+                0.0
+            ],
+            "Illusion_Enable": [
+                0.0
+            ],
+            "Illusion_FadeRate": [
+                1.0
+            ],
+            "Illusion_Fade_BlurRange": [
+                0.5
+            ],
+            "Illusion_Fade_Invert": [
+                0.0
+            ],
+            "Illusion_Noise3d_Scale": [
+                [
+                    0.5,
+                    0.30000001192092896,
+                    0.5,
+                    0.0
+                ]
+            ],
+            "Illusion_Noise3d_Speed": [
+                -0.05999999865889549
+            ],
+            "Illusion_NoiseBlend": [
+                0.5
+            ],
+            "Illusion_RimAlphaGrad": [
+                1.0
+            ],
+            "Illusion_VertexNoise3d_Intensity": [
+                [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.0
+                ]
+            ],
+            "Illusion_VertexNoise3d_Scale": [
+                [
+                    0.20000000298023224,
+                    0.20000000298023224,
+                    0.20000000298023224,
+                    0.0
+                ]
+            ],
+            "Illusion_VertexNoise3d_Speed": [
+                0.15000000596046448
+            ],
+            "MaskMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Metallic": [
+                1.0
+            ],
+            "OcclusionMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Oil_Blend": [
+                1.0
+            ],
+            "Oil_Enable": [
+                0.0
+            ],
+            "Oil_Thickness": [
+                1.0
+            ],
+            "Oil_UseMask": [
+                0.0
+            ],
+            "Petrification_Color1": [
+                [
+                    0.0508774109184742,
+                    0.0508774109184742,
+                    0.0508774109184742,
+                    1.0
+                ]
+            ],
+            "Petrification_Color2": [
+                [
+                    0.6232205033302307,
+                    0.6232205033302307,
+                    0.6232205033302307,
+                    1.0
+                ]
+            ],
+            "Petrification_ColorGrad": [
+                2.700000047683716
+            ],
+            "Petrification_Emissive_Intensity": [
+                0.054999999701976776
+            ],
+            "Petrification_FadeRange": [
+                0.10000000149011612
+            ],
+            "Petrification_Rate": [
+                0.0
+            ],
+            "Petrification_Rate_MI": [
+                0.0
+            ],
+            "Petrification_Roughness": [
+                0.800000011920929
+            ],
+            "Poison_AnimBlend": [
+                0.27000001072883606
+            ],
+            "Poison_AnimSec": [
+                1.600000023841858
+            ],
+            "Poison_Base_Color": [
+                [
+                    0.27450981736183167,
+                    0.1764705926179886,
+                    0.23529411852359772,
+                    1.0
+                ]
+            ],
+            "Poison_Base_FadeRange": [
+                1.600000023841858
+            ],
+            "Poison_Base_Rate": [
+                0.0
+            ],
+            "Poison_EmissiveColorToAlbedo": [
+                2.5
+            ],
+            "Poison_Emissive_Color1": [
+                [
+                    0.11764705926179886,
+                    0.027450980618596077,
+                    0.10980392247438431,
+                    1.0
+                ]
+            ],
+            "Poison_Emissive_Color2": [
+                [
+                    0.23529411852359772,
+                    0.19607843458652496,
+                    0.27450981736183167,
+                    1.0
+                ]
+            ],
+            "Poison_Emissive_ColorGrad": [
+                1.0
+            ],
+            "Poison_Emissive_FadeRange": [
+                3.0
+            ],
+            "Poison_Emissive_Intensity": [
+                0.0010000000474974513
+            ],
+            "Poison_Emissive_Rate": [
+                0.0
+            ],
+            "Poison_Emissive_Threshold": [
+                0.4300000071525574
+            ],
+            "Poison_SeamMaskBlend": [
+                1.0
+            ],
+            "Poison_SeamNoiseRate": [
+                0.6000000238418579
+            ],
+            "RainRipple_Scale": [
+                1.0
+            ],
+            "Restraint_Intensity": [
+                0.0
+            ],
+            "Restraint_Scale": [
+                1.5
+            ],
+            "Restraint_Speed": [
+                [
+                    0.0,
+                    -1.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "RimColor": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimColorDetail": [
+                0.0
+            ],
+            "RimColorGrad": [
+                5.0
+            ],
+            "RimColorIntensity": [
+                0.0
+            ],
+            "RimDither_Curve": [
+                1.0
+            ],
+            "RimDither_Rate": [
+                0.0
+            ],
+            "RimLightGrad": [
+                1.0
+            ],
+            "RimLight_Adjustment": [
+                1.0
+            ],
+            "RimLight_AnimCurve": [
+                1.0
+            ],
+            "RimLight_AnimOffset_B": [
+                0.0
+            ],
+            "RimLight_AnimRate_A": [
+                0.0
+            ],
+            "RimLight_AnimRate_B": [
+                0.0
+            ],
+            "RimLight_AnimSpeed_A": [
+                1.0
+            ],
+            "RimLight_AnimSpeed_B": [
+                1.0
+            ],
+            "RimLight_EmissiveColorToAlbedo": [
+                0.0
+            ],
+            "RimLight_Emissive_BaseColorBlend": [
+                0.0
+            ],
+            "RimLight_Emissive_Color_A": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimLight_Emissive_Color_B": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimLight_Emissive_Curve": [
+                1.0
+            ],
+            "RimLight_Emissive_intensity": [
+                0.0
+            ],
+            "RimLight_Mask_Curve": [
+                1.0
+            ],
+            "RimLight_Mask_Invert": [
+                0.0
+            ],
+            "RimLight_Mask_Rate": [
+                0.0
+            ],
+            "RimLight_OverDetonemap": [
+                0.0
+            ],
+            "RimTranslucency": [
+                0.0
+            ],
+            "Roughness": [
+                1.0
+            ],
+            "SSSChannel": [
+                0.0
+            ],
+            "ShadingRate": [
+                0.0
+            ],
+            "SpecularReflectance": [
+                1.0
+            ],
+            "Translucency": [
+                0.0
+            ],
+            "UseUniqueNoiseMap": [
+                0.0
+            ],
+            "Use_RimLightEmissive": [
+                0.0
+            ],
+            "Velvet_DetailNormal": [
+                1.0
+            ],
+            "Velvet_Enable": [
+                0.0
+            ],
+            "Velvet_RimColorGrad": [
+                4.0
+            ],
+            "Velvet_RimColorIntensity": [
+                0.10000000149011612
+            ],
+            "Velvet_ShadingBias": [
+                4.0
+            ],
+            "Velvet_ShadingGrad": [
+                2.0
+            ],
+            "Velvet_ShadingIntensity": [
+                0.5
+            ],
+            "Velvet_UseMaskMap": [
+                0.0
+            ],
+            "VfxTexture_UseSecondaryUV": [
+                1.0
+            ],
+            "Vfx_NoiseMap_Tiling_Offset": [
+                [
+                    1.0,
+                    1.0,
+                    0.148686945438385,
+                    0.148686945438385
+                ]
+            ],
+            "Vfx_PatternMap_Tiling_Offset": [
+                [
+                    3.5,
+                    3.5,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Vfx_PetrificationMap_Tiling_Offset": [
+                [
+                    1.2999999523162842,
+                    1.0,
+                    0.148686945438385,
+                    0.148686945438385
+                ]
+            ],
+            "Vfx_Texture_TilingScale": [
+                [
+                    0.8153278231620789,
+                    0.6538877487182617,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "WearMap_Tiling_Offset": [
+                [
+                    5.0,
+                    10.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "WetParamIndex": [
+                10.0
+            ],
+            "Wet_Color": [
+                [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ]
+            ],
+            "Wet_Oil_Color": [
+                [
+                    0.0313725508749485,
+                    0.0235294122248888,
+                    0.007843137718737125,
+                    1.0
+                ]
+            ],
+            "Wet_Oil_Rate": [
+                0.0
+            ],
+            "Wet_Oil_SpectrumBlend": [
+                0.5
+            ],
+            "Wet_Oil_Thickness": [
+                0.4099999964237213
+            ],
+            "Wet_Overall_Rate": [
+                0.0
+            ],
+            "Wet_Params": [
+                [
+                    1.0,
+                    0.5,
+                    0.800000011920929,
+                    0.5099999904632568
+                ]
+            ]
+        },
+        "am_051_0_1_Iron_mat": {
+            "AlphaTestRef": [
+                0.5
+            ],
+            "BaseColor": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "BaseDetail_TilingScale": [
+                3.0
+            ],
+            "BrainwashRate": [
+                0.0
+            ],
+            "Brainwash_Color": [
+                [
+                    0.10196078568696976,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "Brainwash_LightInfulence": [
+                0.20000000298023224
+            ],
+            "Brainwash_MaskLevel": [
+                [
+                    0.0,
+                    0.8999999761581421,
+                    1.0,
+                    0.0
+                ]
+            ],
+            "CavityMap_UseSecondaryUV": [
+                0.0
+            ],
+            "CorruptionMap_Tiling": [
+                [
+                    4.5,
+                    4.5,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "CorruptionRate": [
+                0.0
+            ],
+            "Corruption_Blur": [
+                0.4000000059604645
+            ],
+            "Corruption_Color": [
+                [
+                    1.0,
+                    0.019607843831181526,
+                    0.26274511218070984,
+                    1.0
+                ]
+            ],
+            "Corruption_Roughness": [
+                1.0
+            ],
+            "Corruption_TexColorA": [
+                [
+                    0.01568627543747425,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "Corruption_TexColorB": [
+                [
+                    0.3137255012989044,
+                    0.09803921729326248,
+                    0.09803921729326248,
+                    1.0
+                ]
+            ],
+            "Corruption_TexColorGrad": [
+                1.7599999904632568
+            ],
+            "DetailColorIntensity": [
+                0.0
+            ],
+            "DetailColorInvert": [
+                0.0
+            ],
+            "DetailColorMode": [
+                0.0
+            ],
+            "DetailMap_Rotation": [
+                0.0
+            ],
+            "DetailMap_Tiling_Offset": [
+                [
+                    1.0,
+                    2.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "DetailMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Detail_Cavity": [
+                0.5099999904632568
+            ],
+            "Detail_Fade_StartEnd": [
+                [
+                    20.0,
+                    50.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Detail_MetalicMode": [
+                0.0
+            ],
+            "Detail_Metallic": [
+                1.0
+            ],
+            "Detail_MetallicColor": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ]
+            ],
+            "Detail_MetallicColor_Override": [
+                1.0
+            ],
+            "Detail_NormalBlend": [
+                0.20000000298023224
+            ],
+            "Detail_RoughnessBlend": [
+                0.6000000238418579
+            ],
+            "DirtColor1": [
+                [
+                    0.729411780834198,
+                    0.5490196347236633,
+                    0.4627451002597809,
+                    1.0
+                ]
+            ],
+            "DirtColor2": [
+                [
+                    0.6196078658103943,
+                    0.6196078658103943,
+                    0.4431372582912445,
+                    1.0
+                ]
+            ],
+            "DirtColor3": [
+                [
+                    0.34117648005485535,
+                    0.29019609093666077,
+                    0.2235294133424759,
+                    1.0
+                ]
+            ],
+            "DirtColorControl": [
+                0.1899999976158142
+            ],
+            "DirtColor_AddBlend": [
+                0.0
+            ],
+            "DirtColor_Overwrite": [
+                0.0
+            ],
+            "DirtMask_Brightness": [
+                0.5799999833106995
+            ],
+            "DirtMask_Contrast": [
+                0.4699999988079071
+            ],
+            "DirtMask_SeparateMetalGrad": [
+                0.0
+            ],
+            "DirtWearMap_Intensity": [
+                0.8700000047683716
+            ],
+            "DirtWearMap_Inverse": [
+                0.0
+            ],
+            "DirtWearMap_UseFixedUV": [
+                0.0
+            ],
+            "DirtWearMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Dirt_Enable": [
+                1.0
+            ],
+            "Dirt_Metallic": [
+                1.0
+            ],
+            "Dirt_Roughness": [
+                1.0
+            ],
+            "Dirt_SpecularReflectance": [
+                1.0
+            ],
+            "DissolveRate": [
+                0.0
+            ],
+            "DitherFadeGrad_Max": [
+                1.0
+            ],
+            "DitherFadeGrad_Min": [
+                0.0
+            ],
+            "DitherFadeGrad_Rate": [
+                1.0
+            ],
+            "DitherFadePosY_Range": [
+                1.0
+            ],
+            "DitherFadePosY_Rate": [
+                1.0
+            ],
+            "DitherFadePosY_Start": [
+                0.0
+            ],
+            "DitherFadeRate": [
+                1.0
+            ],
+            "DitherFadeRate2": [
+                1.0
+            ],
+            "DragonGrade_ColoCurve": [
+                3.0
+            ],
+            "DragonGrade_Color1": [
+                [
+                    0.5686274766921997,
+                    0.5137255191802979,
+                    0.5137255191802979,
+                    1.0
+                ]
+            ],
+            "DragonGrade_Color2": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "DragonGrade_Emissive_Intensity": [
+                0.0
+            ],
+            "DragonGrade_Enable": [
+                0.0
+            ],
+            "DragonGrade_Level_Max": [
+                0.75
+            ],
+            "DragonGrade_Level_Min": [
+                0.20999999344348907
+            ],
+            "DragonGrade_NoiseAnimSpeed": [
+                0.30000001192092896
+            ],
+            "DragonGrade_NoiseBlend": [
+                0.5
+            ],
+            "DragonGrade_Opacity": [
+                1.0
+            ],
+            "DragonGrade_RimBlend": [
+                1.0
+            ],
+            "DragonGrade_RimGrad": [
+                0.8999999761581421
+            ],
+            "DragonGrade_RoughnessControl": [
+                0.6000000238418579
+            ],
+            "DustCover_Color_B": [
+                [
+                    0.14901961386203766,
+                    0.09019608050584793,
+                    0.06666667014360428,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_Base": [
+                [
+                    0.16078431904315948,
+                    0.12156862765550613,
+                    0.10980392247438431,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_G": [
+                [
+                    0.06666667014360428,
+                    0.0784313753247261,
+                    0.019607843831181526,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_R": [
+                [
+                    0.3019607961177826,
+                    0.25882354378700256,
+                    0.21176470816135406,
+                    1.0
+                ]
+            ],
+            "DustCover_Rate": [
+                0.0
+            ],
+            "DustCover_Tiling": [
+                [
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Dusty_Color1": [
+                [
+                    0.20392157137393951,
+                    0.15294118225574493,
+                    0.11764705926179886,
+                    0.8901960849761963
+                ]
+            ],
+            "Dusty_Color2": [
+                [
+                    0.027450980618596077,
+                    0.0235294122248888,
+                    0.019607843831181526,
+                    0.8901960849761963
+                ]
+            ],
+            "Dusty_ColorCurve": [
+                2.0
+            ],
+            "Dusty_DensityCurve": [
+                0.5
+            ],
+            "Dusty_MaskLevel": [
+                [
+                    -0.5,
+                    1.5000001192092896,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Dusty_Max": [
+                0.5
+            ],
+            "Dusty_Rate": [
+                0.009999999776482582
+            ],
+            "EmissiveColor1": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "EmissiveColor2": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "EmissiveColorGrad": [
+                1.0
+            ],
+            "Emissive_DetoneMapBlend": [
+                1.0
+            ],
+            "Emissive_Enable": [
+                0.0
+            ],
+            "Emissive_Intensity": [
+                1.0
+            ],
+            "Enable_ExtraPatternMap": [
+                0.0
+            ],
+            "EquiipmentVfxMap_UseSecondaryUV": [
+                1.0
+            ],
+            "EventBlood_Color": [
+                [
+                    0.08235294371843338,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "EventBlood_Metallic": [
+                0.0
+            ],
+            "EventBlood_NormalWeaken": [
+                0.0
+            ],
+            "EventBlood_Rate": [
+                0.0
+            ],
+            "EventBlood_Roughness": [
+                0.10000000149011612
+            ],
+            "EventBlood_SpecularReflectance": [
+                1.0
+            ],
+            "EventBlood_UseSecondaryUV": [
+                1.0
+            ],
+            "ExtraPatternMap_Color": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "ExtraPatternMap_DetailNormalBlend": [
+                0.0
+            ],
+            "ExtraPatternMap_Metallic": [
+                1.0
+            ],
+            "ExtraPatternMap_Offset_U": [
+                0.0
+            ],
+            "ExtraPatternMap_Offset_V": [
+                0.0
+            ],
+            "ExtraPatternMap_Ratio": [
+                1.0
+            ],
+            "ExtraPatternMap_Rotation": [
+                0.0
+            ],
+            "ExtraPatternMap_Roughness": [
+                1.0
+            ],
+            "ExtraPatternMap_Scale": [
+                0.10000000149011612
+            ],
+            "ExtraPatternMap_UVRectArea": [
+                [
+                    0.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "ExtraPatternMap_UseSecondaryUV": [
+                0.0
+            ],
+            "FadeChecker": [
+                1.0
+            ],
+            "FadeIndex": [
+                3.0
+            ],
+            "Heat_AnimBlend": [
+                0.5
+            ],
+            "Heat_AnimSec": [
+                2.0
+            ],
+            "Heat_BaseColor": [
+                [
+                    0.11764705926179886,
+                    0.09803921729326248,
+                    0.09803921729326248,
+                    1.0
+                ]
+            ],
+            "Heat_Base_FadeRange": [
+                2.0
+            ],
+            "Heat_Base_Rate": [
+                0.0
+            ],
+            "Heat_EmissiveColor1": [
+                [
+                    1.0,
+                    0.11764705926179886,
+                    0.03921568766236305,
+                    1.0
+                ]
+            ],
+            "Heat_EmissiveColor2": [
+                [
+                    1.0,
+                    0.5882353186607361,
+                    0.03921568766236305,
+                    1.0
+                ]
+            ],
+            "Heat_EmissiveColorGrad": [
+                1.5
+            ],
+            "Heat_EmissiveColorToAlbedo": [
+                4.0
+            ],
+            "Heat_Emissive_FadeRange": [
+                1.5
+            ],
+            "Heat_Emissive_Intensity": [
+                1.0
+            ],
+            "Heat_Emissive_Rate": [
+                0.0
+            ],
+            "Heat_Emissive_Threshold": [
+                0.12999999523162842
+            ],
+            "Heat_IsFreeze": [
+                0.0
+            ],
+            "Heat_SeamMaskBlend": [
+                1.0
+            ],
+            "Heat_SeamNoiseRate": [
+                0.10000000149011612
+            ],
+            "Ignore_AlphaMap": [
+                0.0
+            ],
+            "Illusion_AlphaRate_Front": [
+                0.800000011920929
+            ],
+            "Illusion_AlphaRate_Rim": [
+                0.0
+            ],
+            "Illusion_Enable": [
+                0.0
+            ],
+            "Illusion_FadeRate": [
+                1.0
+            ],
+            "Illusion_Fade_BlurRange": [
+                0.5
+            ],
+            "Illusion_Fade_Invert": [
+                0.0
+            ],
+            "Illusion_Noise3d_Scale": [
+                [
+                    0.5,
+                    0.30000001192092896,
+                    0.5,
+                    0.0
+                ]
+            ],
+            "Illusion_Noise3d_Speed": [
+                -0.05999999865889549
+            ],
+            "Illusion_NoiseBlend": [
+                0.5
+            ],
+            "Illusion_RimAlphaGrad": [
+                1.0
+            ],
+            "Illusion_VertexNoise3d_Intensity": [
+                [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.0
+                ]
+            ],
+            "Illusion_VertexNoise3d_Scale": [
+                [
+                    0.20000000298023224,
+                    0.20000000298023224,
+                    0.20000000298023224,
+                    0.0
+                ]
+            ],
+            "Illusion_VertexNoise3d_Speed": [
+                0.15000000596046448
+            ],
+            "MaskMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Metallic": [
+                1.0
+            ],
+            "OcclusionMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Oil_Blend": [
+                1.0
+            ],
+            "Oil_Enable": [
+                0.0
+            ],
+            "Oil_Thickness": [
+                1.0
+            ],
+            "Oil_UseMask": [
+                0.0
+            ],
+            "Petrification_Color1": [
+                [
+                    0.0508774109184742,
+                    0.0508774109184742,
+                    0.0508774109184742,
+                    1.0
+                ]
+            ],
+            "Petrification_Color2": [
+                [
+                    0.6232205033302307,
+                    0.6232205033302307,
+                    0.6232205033302307,
+                    1.0
+                ]
+            ],
+            "Petrification_ColorGrad": [
+                2.700000047683716
+            ],
+            "Petrification_Emissive_Intensity": [
+                0.054999999701976776
+            ],
+            "Petrification_FadeRange": [
+                0.10000000149011612
+            ],
+            "Petrification_Rate": [
+                0.0
+            ],
+            "Petrification_Rate_MI": [
+                0.0
+            ],
+            "Petrification_Roughness": [
+                0.800000011920929
+            ],
+            "Poison_AnimBlend": [
+                0.27000001072883606
+            ],
+            "Poison_AnimSec": [
+                1.600000023841858
+            ],
+            "Poison_Base_Color": [
+                [
+                    0.27450981736183167,
+                    0.1764705926179886,
+                    0.23529411852359772,
+                    1.0
+                ]
+            ],
+            "Poison_Base_FadeRange": [
+                1.600000023841858
+            ],
+            "Poison_Base_Rate": [
+                0.0
+            ],
+            "Poison_EmissiveColorToAlbedo": [
+                2.5
+            ],
+            "Poison_Emissive_Color1": [
+                [
+                    0.11764705926179886,
+                    0.027450980618596077,
+                    0.10980392247438431,
+                    1.0
+                ]
+            ],
+            "Poison_Emissive_Color2": [
+                [
+                    0.23529411852359772,
+                    0.19607843458652496,
+                    0.27450981736183167,
+                    1.0
+                ]
+            ],
+            "Poison_Emissive_ColorGrad": [
+                1.0
+            ],
+            "Poison_Emissive_FadeRange": [
+                3.0
+            ],
+            "Poison_Emissive_Intensity": [
+                0.0010000000474974513
+            ],
+            "Poison_Emissive_Rate": [
+                0.0
+            ],
+            "Poison_Emissive_Threshold": [
+                0.4300000071525574
+            ],
+            "Poison_SeamMaskBlend": [
+                1.0
+            ],
+            "Poison_SeamNoiseRate": [
+                0.6000000238418579
+            ],
+            "RainRipple_Scale": [
+                1.0
+            ],
+            "Restraint_Intensity": [
+                0.0
+            ],
+            "Restraint_Scale": [
+                1.5
+            ],
+            "Restraint_Speed": [
+                [
+                    0.0,
+                    -1.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "RimColor": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimColorDetail": [
+                0.0
+            ],
+            "RimColorGrad": [
+                5.0
+            ],
+            "RimColorIntensity": [
+                0.0
+            ],
+            "RimDither_Curve": [
+                1.0
+            ],
+            "RimDither_Rate": [
+                0.0
+            ],
+            "RimLightGrad": [
+                1.0
+            ],
+            "RimLight_Adjustment": [
+                1.0
+            ],
+            "RimLight_AnimCurve": [
+                1.0
+            ],
+            "RimLight_AnimOffset_B": [
+                0.0
+            ],
+            "RimLight_AnimRate_A": [
+                0.0
+            ],
+            "RimLight_AnimRate_B": [
+                0.0
+            ],
+            "RimLight_AnimSpeed_A": [
+                1.0
+            ],
+            "RimLight_AnimSpeed_B": [
+                1.0
+            ],
+            "RimLight_EmissiveColorToAlbedo": [
+                0.0
+            ],
+            "RimLight_Emissive_BaseColorBlend": [
+                0.0
+            ],
+            "RimLight_Emissive_Color_A": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimLight_Emissive_Color_B": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimLight_Emissive_Curve": [
+                1.0
+            ],
+            "RimLight_Emissive_intensity": [
+                0.0
+            ],
+            "RimLight_Mask_Curve": [
+                1.0
+            ],
+            "RimLight_Mask_Invert": [
+                0.0
+            ],
+            "RimLight_Mask_Rate": [
+                0.0
+            ],
+            "RimLight_OverDetonemap": [
+                0.0
+            ],
+            "RimTranslucency": [
+                0.0
+            ],
+            "Roughness": [
+                1.0
+            ],
+            "SSSChannel": [
+                0.0
+            ],
+            "ShadingRate": [
+                0.0
+            ],
+            "SpecularReflectance": [
+                1.0
+            ],
+            "Translucency": [
+                0.0
+            ],
+            "UseUniqueNoiseMap": [
+                0.0
+            ],
+            "Use_RimLightEmissive": [
+                0.0
+            ],
+            "Velvet_DetailNormal": [
+                1.0
+            ],
+            "Velvet_Enable": [
+                0.0
+            ],
+            "Velvet_RimColorGrad": [
+                4.0
+            ],
+            "Velvet_RimColorIntensity": [
+                0.10000000149011612
+            ],
+            "Velvet_ShadingBias": [
+                4.0
+            ],
+            "Velvet_ShadingGrad": [
+                2.0
+            ],
+            "Velvet_ShadingIntensity": [
+                0.5
+            ],
+            "Velvet_UseMaskMap": [
+                0.0
+            ],
+            "VfxTexture_UseSecondaryUV": [
+                1.0
+            ],
+            "Vfx_NoiseMap_Tiling_Offset": [
+                [
+                    1.0,
+                    1.0,
+                    0.148686945438385,
+                    0.148686945438385
+                ]
+            ],
+            "Vfx_PatternMap_Tiling_Offset": [
+                [
+                    3.5,
+                    3.5,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Vfx_PetrificationMap_Tiling_Offset": [
+                [
+                    1.2999999523162842,
+                    1.0,
+                    0.148686945438385,
+                    0.148686945438385
+                ]
+            ],
+            "Vfx_Texture_TilingScale": [
+                [
+                    0.9124869108200073,
+                    1.1752243041992188,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "WearMap_Tiling_Offset": [
+                [
+                    5.0,
+                    10.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "WetParamIndex": [
+                10.0
+            ],
+            "Wet_Color": [
+                [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ]
+            ],
+            "Wet_Oil_Color": [
+                [
+                    0.0313725508749485,
+                    0.0235294122248888,
+                    0.007843137718737125,
+                    1.0
+                ]
+            ],
+            "Wet_Oil_Rate": [
+                0.0
+            ],
+            "Wet_Oil_SpectrumBlend": [
+                0.5
+            ],
+            "Wet_Oil_Thickness": [
+                0.4099999964237213
+            ],
+            "Wet_Overall_Rate": [
+                0.0
+            ],
+            "Wet_Params": [
+                [
+                    1.0,
+                    0.5,
+                    0.800000011920929,
+                    0.5099999904632568
+                ]
+            ]
+        },
+        "am_051_0_1_Leather_mat": {
+            "AlphaTestRef": [
+                0.5
+            ],
+            "BaseColor": [
+                [
+                    0.48627451062202454,
+                    0.41960784792900085,
+                    0.5411764979362488,
+                    1.0
+                ]
+            ],
+            "BaseDetail_TilingScale": [
+                3.0
+            ],
+            "BrainwashRate": [
+                0.0
+            ],
+            "Brainwash_Color": [
+                [
+                    0.10196078568696976,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "Brainwash_LightInfulence": [
+                0.20000000298023224
+            ],
+            "Brainwash_MaskLevel": [
+                [
+                    0.0,
+                    0.8999999761581421,
+                    1.0,
+                    0.0
+                ]
+            ],
+            "CavityMap_UseSecondaryUV": [
+                0.0
+            ],
+            "CorruptionMap_Tiling": [
+                [
+                    4.5,
+                    4.5,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "CorruptionRate": [
+                0.0
+            ],
+            "Corruption_Blur": [
+                0.4000000059604645
+            ],
+            "Corruption_Color": [
+                [
+                    1.0,
+                    0.019607843831181526,
+                    0.26274511218070984,
+                    1.0
+                ]
+            ],
+            "Corruption_Roughness": [
+                1.0
+            ],
+            "Corruption_TexColorA": [
+                [
+                    0.01568627543747425,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "Corruption_TexColorB": [
+                [
+                    0.3137255012989044,
+                    0.09803921729326248,
+                    0.09803921729326248,
+                    1.0
+                ]
+            ],
+            "Corruption_TexColorGrad": [
+                1.7599999904632568
+            ],
+            "DetailColorIntensity": [
+                0.0
+            ],
+            "DetailColorInvert": [
+                0.0
+            ],
+            "DetailColorMode": [
+                0.0
+            ],
+            "DetailMap_Rotation": [
+                0.0
+            ],
+            "DetailMap_Tiling_Offset": [
+                [
+                    5.0,
+                    10.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "DetailMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Detail_Cavity": [
+                0.0
+            ],
+            "Detail_Fade_StartEnd": [
+                [
+                    20.0,
+                    50.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Detail_MetalicMode": [
+                0.0
+            ],
+            "Detail_Metallic": [
+                1.0
+            ],
+            "Detail_MetallicColor": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ]
+            ],
+            "Detail_MetallicColor_Override": [
+                1.0
+            ],
+            "Detail_NormalBlend": [
+                0.5
+            ],
+            "Detail_RoughnessBlend": [
+                1.0
+            ],
+            "DirtColor1": [
+                [
+                    0.8313725590705872,
+                    0.6039215922355652,
+                    0.5333333611488342,
+                    1.0
+                ]
+            ],
+            "DirtColor2": [
+                [
+                    0.7843137383460999,
+                    0.7372549176216125,
+                    0.6823529601097107,
+                    1.0
+                ]
+            ],
+            "DirtColor3": [
+                [
+                    0.4901960790157318,
+                    0.4901960790157318,
+                    0.5333333611488342,
+                    1.0
+                ]
+            ],
+            "DirtColorControl": [
+                1.0
+            ],
+            "DirtColor_AddBlend": [
+                0.0
+            ],
+            "DirtColor_Overwrite": [
+                0.0
+            ],
+            "DirtMask_Brightness": [
+                0.4300000071525574
+            ],
+            "DirtMask_Contrast": [
+                0.12999999523162842
+            ],
+            "DirtMask_SeparateMetalGrad": [
+                0.0
+            ],
+            "DirtWearMap_Intensity": [
+                0.11999999731779099
+            ],
+            "DirtWearMap_Inverse": [
+                0.0
+            ],
+            "DirtWearMap_UseFixedUV": [
+                0.0
+            ],
+            "DirtWearMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Dirt_Enable": [
+                1.0
+            ],
+            "Dirt_Metallic": [
+                1.0
+            ],
+            "Dirt_Roughness": [
+                2.0
+            ],
+            "Dirt_SpecularReflectance": [
+                1.0
+            ],
+            "DissolveRate": [
+                0.0
+            ],
+            "DitherFadeGrad_Max": [
+                1.0
+            ],
+            "DitherFadeGrad_Min": [
+                0.0
+            ],
+            "DitherFadeGrad_Rate": [
+                1.0
+            ],
+            "DitherFadePosY_Range": [
+                1.0
+            ],
+            "DitherFadePosY_Rate": [
+                1.0
+            ],
+            "DitherFadePosY_Start": [
+                0.0
+            ],
+            "DitherFadeRate": [
+                1.0
+            ],
+            "DitherFadeRate2": [
+                1.0
+            ],
+            "DragonGrade_ColoCurve": [
+                3.0
+            ],
+            "DragonGrade_Color1": [
+                [
+                    0.5686274766921997,
+                    0.5137255191802979,
+                    0.5137255191802979,
+                    1.0
+                ]
+            ],
+            "DragonGrade_Color2": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "DragonGrade_Emissive_Intensity": [
+                0.0
+            ],
+            "DragonGrade_Enable": [
+                0.0
+            ],
+            "DragonGrade_Level_Max": [
+                0.75
+            ],
+            "DragonGrade_Level_Min": [
+                0.20999999344348907
+            ],
+            "DragonGrade_NoiseAnimSpeed": [
+                0.30000001192092896
+            ],
+            "DragonGrade_NoiseBlend": [
+                0.5
+            ],
+            "DragonGrade_Opacity": [
+                0.25
+            ],
+            "DragonGrade_RimBlend": [
+                1.0
+            ],
+            "DragonGrade_RimGrad": [
+                0.8999999761581421
+            ],
+            "DragonGrade_RoughnessControl": [
+                0.6000000238418579
+            ],
+            "DustCover_Color_B": [
+                [
+                    0.14901961386203766,
+                    0.09019608050584793,
+                    0.06666667014360428,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_Base": [
+                [
+                    0.16078431904315948,
+                    0.12156862765550613,
+                    0.10980392247438431,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_G": [
+                [
+                    0.06666667014360428,
+                    0.0784313753247261,
+                    0.019607843831181526,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_R": [
+                [
+                    0.3019607961177826,
+                    0.25882354378700256,
+                    0.21176470816135406,
+                    1.0
+                ]
+            ],
+            "DustCover_Rate": [
+                0.0
+            ],
+            "DustCover_Tiling": [
+                [
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Dusty_Color1": [
+                [
+                    0.20392157137393951,
+                    0.15294118225574493,
+                    0.11764705926179886,
+                    0.8901960849761963
+                ]
+            ],
+            "Dusty_Color2": [
+                [
+                    0.027450980618596077,
+                    0.0235294122248888,
+                    0.019607843831181526,
+                    0.8901960849761963
+                ]
+            ],
+            "Dusty_ColorCurve": [
+                2.0
+            ],
+            "Dusty_DensityCurve": [
+                0.5
+            ],
+            "Dusty_MaskLevel": [
+                [
+                    -0.5,
+                    1.5000001192092896,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Dusty_Max": [
+                0.5
+            ],
+            "Dusty_Rate": [
+                0.009999999776482582
+            ],
+            "EmissiveColor1": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "EmissiveColor2": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "EmissiveColorGrad": [
+                1.0
+            ],
+            "Emissive_DetoneMapBlend": [
+                1.0
+            ],
+            "Emissive_Enable": [
+                0.0
+            ],
+            "Emissive_Intensity": [
+                1.0
+            ],
+            "Enable_ExtraPatternMap": [
+                0.0
+            ],
+            "EquiipmentVfxMap_UseSecondaryUV": [
+                1.0
+            ],
+            "EventBlood_Color": [
+                [
+                    0.08235294371843338,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "EventBlood_Metallic": [
+                0.0
+            ],
+            "EventBlood_NormalWeaken": [
+                0.0
+            ],
+            "EventBlood_Rate": [
+                0.0
+            ],
+            "EventBlood_Roughness": [
+                0.10000000149011612
+            ],
+            "EventBlood_SpecularReflectance": [
+                1.0
+            ],
+            "EventBlood_UseSecondaryUV": [
+                1.0
+            ],
+            "ExtraPatternMap_Color": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "ExtraPatternMap_DetailNormalBlend": [
+                0.0
+            ],
+            "ExtraPatternMap_Metallic": [
+                1.0
+            ],
+            "ExtraPatternMap_Offset_U": [
+                0.0
+            ],
+            "ExtraPatternMap_Offset_V": [
+                0.0
+            ],
+            "ExtraPatternMap_Ratio": [
+                1.0
+            ],
+            "ExtraPatternMap_Rotation": [
+                0.0
+            ],
+            "ExtraPatternMap_Roughness": [
+                1.0
+            ],
+            "ExtraPatternMap_Scale": [
+                0.10000000149011612
+            ],
+            "ExtraPatternMap_UVRectArea": [
+                [
+                    0.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "ExtraPatternMap_UseSecondaryUV": [
+                0.0
+            ],
+            "FadeChecker": [
+                1.0
+            ],
+            "FadeIndex": [
+                3.0
+            ],
+            "Heat_AnimBlend": [
+                0.5
+            ],
+            "Heat_AnimSec": [
+                2.0
+            ],
+            "Heat_BaseColor": [
+                [
+                    0.11764705926179886,
+                    0.09803921729326248,
+                    0.09803921729326248,
+                    1.0
+                ]
+            ],
+            "Heat_Base_FadeRange": [
+                2.0
+            ],
+            "Heat_Base_Rate": [
+                0.0
+            ],
+            "Heat_EmissiveColor1": [
+                [
+                    1.0,
+                    0.11764705926179886,
+                    0.03921568766236305,
+                    1.0
+                ]
+            ],
+            "Heat_EmissiveColor2": [
+                [
+                    1.0,
+                    0.5882353186607361,
+                    0.03921568766236305,
+                    1.0
+                ]
+            ],
+            "Heat_EmissiveColorGrad": [
+                1.5
+            ],
+            "Heat_EmissiveColorToAlbedo": [
+                4.0
+            ],
+            "Heat_Emissive_FadeRange": [
+                1.5
+            ],
+            "Heat_Emissive_Intensity": [
+                1.0
+            ],
+            "Heat_Emissive_Rate": [
+                0.0
+            ],
+            "Heat_Emissive_Threshold": [
+                0.12999999523162842
+            ],
+            "Heat_IsFreeze": [
+                0.0
+            ],
+            "Heat_SeamMaskBlend": [
+                1.0
+            ],
+            "Heat_SeamNoiseRate": [
+                0.10000000149011612
+            ],
+            "Ignore_AlphaMap": [
+                0.0
+            ],
+            "Illusion_AlphaRate_Front": [
+                0.800000011920929
+            ],
+            "Illusion_AlphaRate_Rim": [
+                0.0
+            ],
+            "Illusion_Enable": [
+                0.0
+            ],
+            "Illusion_FadeRate": [
+                1.0
+            ],
+            "Illusion_Fade_BlurRange": [
+                0.5
+            ],
+            "Illusion_Fade_Invert": [
+                0.0
+            ],
+            "Illusion_Noise3d_Scale": [
+                [
+                    0.5,
+                    0.30000001192092896,
+                    0.5,
+                    0.0
+                ]
+            ],
+            "Illusion_Noise3d_Speed": [
+                -0.05999999865889549
+            ],
+            "Illusion_NoiseBlend": [
+                0.5
+            ],
+            "Illusion_RimAlphaGrad": [
+                1.0
+            ],
+            "Illusion_VertexNoise3d_Intensity": [
+                [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.0
+                ]
+            ],
+            "Illusion_VertexNoise3d_Scale": [
+                [
+                    0.20000000298023224,
+                    0.20000000298023224,
+                    0.20000000298023224,
+                    0.0
+                ]
+            ],
+            "Illusion_VertexNoise3d_Speed": [
+                0.15000000596046448
+            ],
+            "MaskMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Metallic": [
+                1.0
+            ],
+            "OcclusionMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Oil_Blend": [
+                1.0
+            ],
+            "Oil_Enable": [
+                0.0
+            ],
+            "Oil_Thickness": [
+                1.0
+            ],
+            "Oil_UseMask": [
+                0.0
+            ],
+            "Petrification_Color1": [
+                [
+                    0.0508774109184742,
+                    0.0508774109184742,
+                    0.0508774109184742,
+                    1.0
+                ]
+            ],
+            "Petrification_Color2": [
+                [
+                    0.6232205033302307,
+                    0.6232205033302307,
+                    0.6232205033302307,
+                    1.0
+                ]
+            ],
+            "Petrification_ColorGrad": [
+                2.700000047683716
+            ],
+            "Petrification_Emissive_Intensity": [
+                0.054999999701976776
+            ],
+            "Petrification_FadeRange": [
+                0.10000000149011612
+            ],
+            "Petrification_Rate": [
+                0.0
+            ],
+            "Petrification_Rate_MI": [
+                0.0
+            ],
+            "Petrification_Roughness": [
+                0.800000011920929
+            ],
+            "Poison_AnimBlend": [
+                0.27000001072883606
+            ],
+            "Poison_AnimSec": [
+                1.600000023841858
+            ],
+            "Poison_Base_Color": [
+                [
+                    0.27450981736183167,
+                    0.1764705926179886,
+                    0.23529411852359772,
+                    1.0
+                ]
+            ],
+            "Poison_Base_FadeRange": [
+                1.600000023841858
+            ],
+            "Poison_Base_Rate": [
+                0.0
+            ],
+            "Poison_EmissiveColorToAlbedo": [
+                2.5
+            ],
+            "Poison_Emissive_Color1": [
+                [
+                    0.11764705926179886,
+                    0.027450980618596077,
+                    0.10980392247438431,
+                    1.0
+                ]
+            ],
+            "Poison_Emissive_Color2": [
+                [
+                    0.23529411852359772,
+                    0.19607843458652496,
+                    0.27450981736183167,
+                    1.0
+                ]
+            ],
+            "Poison_Emissive_ColorGrad": [
+                1.0
+            ],
+            "Poison_Emissive_FadeRange": [
+                3.0
+            ],
+            "Poison_Emissive_Intensity": [
+                0.0010000000474974513
+            ],
+            "Poison_Emissive_Rate": [
+                0.0
+            ],
+            "Poison_Emissive_Threshold": [
+                0.4300000071525574
+            ],
+            "Poison_SeamMaskBlend": [
+                1.0
+            ],
+            "Poison_SeamNoiseRate": [
+                0.6000000238418579
+            ],
+            "RainRipple_Scale": [
+                1.0
+            ],
+            "Restraint_Intensity": [
+                0.0
+            ],
+            "Restraint_Scale": [
+                1.5
+            ],
+            "Restraint_Speed": [
+                [
+                    0.0,
+                    -1.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "RimColor": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimColorDetail": [
+                0.0
+            ],
+            "RimColorGrad": [
+                5.0
+            ],
+            "RimColorIntensity": [
+                0.0
+            ],
+            "RimDither_Curve": [
+                1.0
+            ],
+            "RimDither_Rate": [
+                0.0
+            ],
+            "RimLightGrad": [
+                1.0
+            ],
+            "RimLight_Adjustment": [
+                1.0
+            ],
+            "RimLight_AnimCurve": [
+                1.0
+            ],
+            "RimLight_AnimOffset_B": [
+                0.0
+            ],
+            "RimLight_AnimRate_A": [
+                0.0
+            ],
+            "RimLight_AnimRate_B": [
+                0.0
+            ],
+            "RimLight_AnimSpeed_A": [
+                1.0
+            ],
+            "RimLight_AnimSpeed_B": [
+                1.0
+            ],
+            "RimLight_EmissiveColorToAlbedo": [
+                0.0
+            ],
+            "RimLight_Emissive_BaseColorBlend": [
+                0.0
+            ],
+            "RimLight_Emissive_Color_A": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimLight_Emissive_Color_B": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimLight_Emissive_Curve": [
+                1.0
+            ],
+            "RimLight_Emissive_intensity": [
+                0.0
+            ],
+            "RimLight_Mask_Curve": [
+                1.0
+            ],
+            "RimLight_Mask_Invert": [
+                0.0
+            ],
+            "RimLight_Mask_Rate": [
+                0.0
+            ],
+            "RimLight_OverDetonemap": [
+                0.0
+            ],
+            "RimTranslucency": [
+                0.0
+            ],
+            "Roughness": [
+                1.0
+            ],
+            "SSSChannel": [
+                0.0
+            ],
+            "ShadingRate": [
+                0.0
+            ],
+            "SpecularReflectance": [
+                1.0
+            ],
+            "Translucency": [
+                0.0
+            ],
+            "UseUniqueNoiseMap": [
+                0.0
+            ],
+            "Use_RimLightEmissive": [
+                0.0
+            ],
+            "Velvet_DetailNormal": [
+                1.0
+            ],
+            "Velvet_Enable": [
+                0.0
+            ],
+            "Velvet_RimColorGrad": [
+                4.0
+            ],
+            "Velvet_RimColorIntensity": [
+                0.10000000149011612
+            ],
+            "Velvet_ShadingBias": [
+                4.0
+            ],
+            "Velvet_ShadingGrad": [
+                2.0
+            ],
+            "Velvet_ShadingIntensity": [
+                0.5
+            ],
+            "Velvet_UseMaskMap": [
+                0.0
+            ],
+            "VfxTexture_UseSecondaryUV": [
+                1.0
+            ],
+            "Vfx_NoiseMap_Tiling_Offset": [
+                [
+                    1.0,
+                    1.0,
+                    0.148686945438385,
+                    0.148686945438385
+                ]
+            ],
+            "Vfx_PatternMap_Tiling_Offset": [
+                [
+                    3.5,
+                    3.5,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Vfx_PetrificationMap_Tiling_Offset": [
+                [
+                    1.2999999523162842,
+                    1.0,
+                    0.148686945438385,
+                    0.148686945438385
+                ]
+            ],
+            "Vfx_Texture_TilingScale": [
+                [
+                    0.6392991542816162,
+                    1.1799888610839844,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "WearMap_Tiling_Offset": [
+                [
+                    5.0,
+                    10.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "WetParamIndex": [
+                10.0
+            ],
+            "Wet_Color": [
+                [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ]
+            ],
+            "Wet_Oil_Color": [
+                [
+                    0.0313725508749485,
+                    0.0235294122248888,
+                    0.007843137718737125,
+                    1.0
+                ]
+            ],
+            "Wet_Oil_Rate": [
+                0.0
+            ],
+            "Wet_Oil_SpectrumBlend": [
+                0.5
+            ],
+            "Wet_Oil_Thickness": [
+                0.4099999964237213
+            ],
+            "Wet_Overall_Rate": [
+                0.0
+            ],
+            "Wet_Params": [
+                [
+                    1.0,
+                    0.5,
+                    0.800000011920929,
+                    0.5099999904632568
+                ]
+            ]
+        },
+        "am_051_0_1_Scalemail_mat": {
+            "AlphaTestRef": [
+                0.5
+            ],
+            "BaseColor": [
+                [
+                    0.0235294122248888,
+                    0.03921568766236305,
+                    0.0784313753247261,
+                    1.0
+                ]
+            ],
+            "Base_NormalBlend": [
+                1.0
+            ],
+            "Base_RoughnessBlend": [
+                0.0
+            ],
+            "BrainwashRate": [
+                0.0
+            ],
+            "Brainwash_Color": [
+                [
+                    0.10196078568696976,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "Brainwash_LightInfulence": [
+                0.20000000298023224
+            ],
+            "Brainwash_MaskLevel": [
+                [
+                    0.0,
+                    0.8999999761581421,
+                    1.0,
+                    0.0
+                ]
+            ],
+            "CavityMap_UseSecondaryUV": [
+                0.0
+            ],
+            "CorruptionMap_Tiling": [
+                [
+                    4.5,
+                    4.5,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "CorruptionRate": [
+                0.0
+            ],
+            "Corruption_Blur": [
+                0.4000000059604645
+            ],
+            "Corruption_Color": [
+                [
+                    1.0,
+                    0.019607843831181526,
+                    0.26274511218070984,
+                    1.0
+                ]
+            ],
+            "Corruption_Roughness": [
+                1.0
+            ],
+            "Corruption_TexColorA": [
+                [
+                    0.01568627543747425,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "Corruption_TexColorB": [
+                [
+                    0.3137255012989044,
+                    0.09803921729326248,
+                    0.09803921729326248,
+                    1.0
+                ]
+            ],
+            "Corruption_TexColorGrad": [
+                1.7599999904632568
+            ],
+            "DirtColor1": [
+                [
+                    0.49803921580314636,
+                    0.29019609093666077,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "DirtColor2": [
+                [
+                    0.33725491166114807,
+                    0.43529412150382996,
+                    0.4901960790157318,
+                    1.0
+                ]
+            ],
+            "DirtColor3": [
+                [
+                    0.3490196168422699,
+                    0.3490196168422699,
+                    0.24705882370471954,
+                    1.0
+                ]
+            ],
+            "DirtColorControl": [
+                1.0
+            ],
+            "DirtColor_AddBlend": [
+                0.0
+            ],
+            "DirtColor_Overwrite": [
+                0.0
+            ],
+            "DirtMask_Brightness": [
+                0.5299999713897705
+            ],
+            "DirtMask_Contrast": [
+                0.0
+            ],
+            "DirtMask_SeparateMetalGrad": [
+                0.0
+            ],
+            "DirtWearMap_Intensity": [
+                1.0
+            ],
+            "DirtWearMap_Inverse": [
+                0.0
+            ],
+            "DirtWearMap_UseFixedUV": [
+                0.0
+            ],
+            "DirtWearMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Dirt_Enable": [
+                1.0
+            ],
+            "Dirt_Metallic": [
+                1.0
+            ],
+            "Dirt_Roughness": [
+                1.0
+            ],
+            "Dirt_SpecularReflectance": [
+                1.0
+            ],
+            "DissolveRate": [
+                0.0
+            ],
+            "DitherFadeGrad_Max": [
+                1.0
+            ],
+            "DitherFadeGrad_Min": [
+                0.0
+            ],
+            "DitherFadeGrad_Rate": [
+                1.0
+            ],
+            "DitherFadePosY_Range": [
+                1.0
+            ],
+            "DitherFadePosY_Rate": [
+                1.0
+            ],
+            "DitherFadePosY_Start": [
+                0.0
+            ],
+            "DitherFadeRate": [
+                1.0
+            ],
+            "DitherFadeRate2": [
+                1.0
+            ],
+            "DragonGrade_ColoCurve": [
+                3.0
+            ],
+            "DragonGrade_Color1": [
+                [
+                    0.5686274766921997,
+                    0.5137255191802979,
+                    0.5137255191802979,
+                    1.0
+                ]
+            ],
+            "DragonGrade_Color2": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "DragonGrade_Emissive_Intensity": [
+                0.0
+            ],
+            "DragonGrade_Enable": [
+                0.0
+            ],
+            "DragonGrade_Level_Max": [
+                0.75
+            ],
+            "DragonGrade_Level_Min": [
+                0.20999999344348907
+            ],
+            "DragonGrade_NoiseAnimSpeed": [
+                0.30000001192092896
+            ],
+            "DragonGrade_NoiseBlend": [
+                0.5
+            ],
+            "DragonGrade_Opacity": [
+                0.25
+            ],
+            "DragonGrade_RimBlend": [
+                1.0
+            ],
+            "DragonGrade_RimGrad": [
+                0.8999999761581421
+            ],
+            "DragonGrade_RoughnessControl": [
+                0.6000000238418579
+            ],
+            "DustCover_Color_B": [
+                [
+                    0.14901961386203766,
+                    0.09019608050584793,
+                    0.06666667014360428,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_Base": [
+                [
+                    0.16078431904315948,
+                    0.12156862765550613,
+                    0.10980392247438431,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_G": [
+                [
+                    0.06666667014360428,
+                    0.0784313753247261,
+                    0.019607843831181526,
+                    1.0
+                ]
+            ],
+            "DustCover_Color_R": [
+                [
+                    0.3019607961177826,
+                    0.25882354378700256,
+                    0.21176470816135406,
+                    1.0
+                ]
+            ],
+            "DustCover_Rate": [
+                0.0
+            ],
+            "DustCover_Tiling": [
+                [
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Dusty_Color1": [
+                [
+                    0.20392157137393951,
+                    0.15294118225574493,
+                    0.11764705926179886,
+                    0.8901960849761963
+                ]
+            ],
+            "Dusty_Color2": [
+                [
+                    0.027450980618596077,
+                    0.0235294122248888,
+                    0.019607843831181526,
+                    0.8901960849761963
+                ]
+            ],
+            "Dusty_ColorCurve": [
+                2.0
+            ],
+            "Dusty_DensityCurve": [
+                0.5
+            ],
+            "Dusty_MaskLevel": [
+                [
+                    -0.5,
+                    1.5000001192092896,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Dusty_Max": [
+                0.5
+            ],
+            "Dusty_Rate": [
+                0.009999999776482582
+            ],
+            "EmissiveColor1": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "EmissiveColor2": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "EmissiveColorGrad": [
+                1.0
+            ],
+            "Emissive_DetoneMapBlend": [
+                1.0
+            ],
+            "Emissive_Enable": [
+                0.0
+            ],
+            "Emissive_Intensity": [
+                1.0
+            ],
+            "Enable_ExtraPatternMap": [
+                0.0
+            ],
+            "EquiipmentVfxMap_UseSecondaryUV": [
+                1.0
+            ],
+            "EventBlood_Color": [
+                [
+                    0.08235294371843338,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "EventBlood_Metallic": [
+                0.0
+            ],
+            "EventBlood_NormalWeaken": [
+                0.0
+            ],
+            "EventBlood_Rate": [
+                0.0
+            ],
+            "EventBlood_Roughness": [
+                0.10000000149011612
+            ],
+            "EventBlood_SpecularReflectance": [
+                1.0
+            ],
+            "EventBlood_UseSecondaryUV": [
+                1.0
+            ],
+            "ExtraPatternMap_Color": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "ExtraPatternMap_DetailNormalBlend": [
+                0.0
+            ],
+            "ExtraPatternMap_Metallic": [
+                1.0
+            ],
+            "ExtraPatternMap_Offset_U": [
+                0.0
+            ],
+            "ExtraPatternMap_Offset_V": [
+                0.0
+            ],
+            "ExtraPatternMap_Ratio": [
+                1.0
+            ],
+            "ExtraPatternMap_Rotation": [
+                0.0
+            ],
+            "ExtraPatternMap_Roughness": [
+                1.0
+            ],
+            "ExtraPatternMap_Scale": [
+                1.0
+            ],
+            "ExtraPatternMap_UVRectArea": [
+                [
+                    0.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ]
+            ],
+            "ExtraPatternMap_UseSecondaryUV": [
+                0.0
+            ],
+            "FadeIndex": [
+                3.0
+            ],
+            "Heat_AnimBlend": [
+                0.5
+            ],
+            "Heat_AnimSec": [
+                2.0
+            ],
+            "Heat_BaseColor": [
+                [
+                    0.11764705926179886,
+                    0.09803921729326248,
+                    0.09803921729326248,
+                    1.0
+                ]
+            ],
+            "Heat_Base_FadeRange": [
+                2.0
+            ],
+            "Heat_Base_Rate": [
+                0.0
+            ],
+            "Heat_EmissiveColor1": [
+                [
+                    1.0,
+                    0.11764705926179886,
+                    0.03921568766236305,
+                    1.0
+                ]
+            ],
+            "Heat_EmissiveColor2": [
+                [
+                    1.0,
+                    0.5882353186607361,
+                    0.03921568766236305,
+                    1.0
+                ]
+            ],
+            "Heat_EmissiveColorGrad": [
+                1.5
+            ],
+            "Heat_EmissiveColorToAlbedo": [
+                4.0
+            ],
+            "Heat_Emissive_FadeRange": [
+                1.5
+            ],
+            "Heat_Emissive_Intensity": [
+                1.0
+            ],
+            "Heat_Emissive_Rate": [
+                0.0
+            ],
+            "Heat_Emissive_Threshold": [
+                0.12999999523162842
+            ],
+            "Heat_IsFreeze": [
+                0.0
+            ],
+            "Heat_SeamMaskBlend": [
+                1.0
+            ],
+            "Heat_SeamNoiseRate": [
+                0.10000000149011612
+            ],
+            "Ignore_AlphaMap": [
+                0.0
+            ],
+            "Illusion_AlphaRate_Front": [
+                0.800000011920929
+            ],
+            "Illusion_AlphaRate_Rim": [
+                0.0
+            ],
+            "Illusion_Enable": [
+                0.0
+            ],
+            "Illusion_FadeRate": [
+                1.0
+            ],
+            "Illusion_Fade_BlurRange": [
+                0.5
+            ],
+            "Illusion_Fade_Invert": [
+                0.0
+            ],
+            "Illusion_Noise3d_Scale": [
+                [
+                    0.5,
+                    0.30000001192092896,
+                    0.5,
+                    0.0
+                ]
+            ],
+            "Illusion_Noise3d_Speed": [
+                -0.05999999865889549
+            ],
+            "Illusion_NoiseBlend": [
+                0.5
+            ],
+            "Illusion_RimAlphaGrad": [
+                1.0
+            ],
+            "Illusion_VertexNoise3d_Intensity": [
+                [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.0
+                ]
+            ],
+            "Illusion_VertexNoise3d_Scale": [
+                [
+                    0.20000000298023224,
+                    0.20000000298023224,
+                    0.20000000298023224,
+                    0.0
+                ]
+            ],
+            "Illusion_VertexNoise3d_Speed": [
+                0.15000000596046448
+            ],
+            "MaskMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Metallic": [
+                1.0
+            ],
+            "OcclusionMap_UseSecondaryUV": [
+                1.0
+            ],
+            "Oil_Blend": [
+                2.0
+            ],
+            "Oil_Enable": [
+                0.0
+            ],
+            "Oil_Thickness": [
+                0.7400000095367432
+            ],
+            "Oil_UseMask": [
+                0.0
+            ],
+            "PatternMap_UseALBC": [
+                0.0
+            ],
+            "PatternMap_UseAlphaTest": [
+                0.0
+            ],
+            "PatternMap_UseSecondaryUV": [
+                0.0
+            ],
+            "Pattern_Cavity": [
+                1.0
+            ],
+            "Pattern_Metallic": [
+                0.7300000190734863
+            ],
+            "Pattern_Rotation": [
+                0.0
+            ],
+            "Pattern_Tiling_Offset": [
+                [
+                    7.0,
+                    11.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Petrification_Color1": [
+                [
+                    0.0508774109184742,
+                    0.0508774109184742,
+                    0.0508774109184742,
+                    1.0
+                ]
+            ],
+            "Petrification_Color2": [
+                [
+                    0.6232205033302307,
+                    0.6232205033302307,
+                    0.6232205033302307,
+                    1.0
+                ]
+            ],
+            "Petrification_ColorGrad": [
+                2.700000047683716
+            ],
+            "Petrification_Emissive_Intensity": [
+                0.054999999701976776
+            ],
+            "Petrification_FadeRange": [
+                0.10000000149011612
+            ],
+            "Petrification_Rate": [
+                0.0
+            ],
+            "Petrification_Rate_MI": [
+                0.0
+            ],
+            "Petrification_Roughness": [
+                0.800000011920929
+            ],
+            "Poison_AnimBlend": [
+                0.27000001072883606
+            ],
+            "Poison_AnimSec": [
+                1.600000023841858
+            ],
+            "Poison_Base_Color": [
+                [
+                    0.27450981736183167,
+                    0.1764705926179886,
+                    0.23529411852359772,
+                    1.0
+                ]
+            ],
+            "Poison_Base_FadeRange": [
+                1.600000023841858
+            ],
+            "Poison_Base_Rate": [
+                0.0
+            ],
+            "Poison_EmissiveColorToAlbedo": [
+                2.5
+            ],
+            "Poison_Emissive_Color1": [
+                [
+                    0.11764705926179886,
+                    0.027450980618596077,
+                    0.10980392247438431,
+                    1.0
+                ]
+            ],
+            "Poison_Emissive_Color2": [
+                [
+                    0.23529411852359772,
+                    0.19607843458652496,
+                    0.27450981736183167,
+                    1.0
+                ]
+            ],
+            "Poison_Emissive_ColorGrad": [
+                1.0
+            ],
+            "Poison_Emissive_FadeRange": [
+                3.0
+            ],
+            "Poison_Emissive_Intensity": [
+                0.0010000000474974513
+            ],
+            "Poison_Emissive_Rate": [
+                0.0
+            ],
+            "Poison_Emissive_Threshold": [
+                0.4300000071525574
+            ],
+            "Poison_SeamMaskBlend": [
+                1.0
+            ],
+            "Poison_SeamNoiseRate": [
+                0.6000000238418579
+            ],
+            "RainRipple_Scale": [
+                1.0
+            ],
+            "Restraint_Intensity": [
+                0.0
+            ],
+            "Restraint_Scale": [
+                1.5
+            ],
+            "Restraint_Speed": [
+                [
+                    0.0,
+                    -1.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "RimDither_Curve": [
+                1.0
+            ],
+            "RimDither_Rate": [
+                0.0
+            ],
+            "RimLightGrad": [
+                1.0
+            ],
+            "RimLight_Adjustment": [
+                1.0
+            ],
+            "RimLight_AnimCurve": [
+                1.0
+            ],
+            "RimLight_AnimOffset_B": [
+                0.0
+            ],
+            "RimLight_AnimRate_A": [
+                0.0
+            ],
+            "RimLight_AnimRate_B": [
+                0.0
+            ],
+            "RimLight_AnimSpeed_A": [
+                1.0
+            ],
+            "RimLight_AnimSpeed_B": [
+                1.0
+            ],
+            "RimLight_EmissiveColorToAlbedo": [
+                0.0
+            ],
+            "RimLight_Emissive_BaseColorBlend": [
+                0.0
+            ],
+            "RimLight_Emissive_Color_A": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimLight_Emissive_Color_B": [
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            ],
+            "RimLight_Emissive_Curve": [
+                1.0
+            ],
+            "RimLight_Emissive_intensity": [
+                0.0
+            ],
+            "RimLight_Mask_Curve": [
+                1.0
+            ],
+            "RimLight_Mask_Invert": [
+                0.0
+            ],
+            "RimLight_Mask_Rate": [
+                0.0
+            ],
+            "RimLight_OverDetonemap": [
+                0.0
+            ],
+            "RimTranslucency": [
+                0.0
+            ],
+            "Roughness": [
+                1.0
+            ],
+            "SSSChannel": [
+                0.0
+            ],
+            "ShadingRate": [
+                0.0
+            ],
+            "SpecularReflectance": [
+                1.0
+            ],
+            "Translucency": [
+                0.0
+            ],
+            "UseUniqueNoiseMap": [
+                0.0
+            ],
+            "Use_AlbedoMapBlend": [
+                0.0
+            ],
+            "Use_RimLightEmissive": [
+                0.0
+            ],
+            "Velvet_DetailNormal": [
+                1.0
+            ],
+            "Velvet_Enable": [
+                0.0
+            ],
+            "Velvet_RimColorGrad": [
+                4.0
+            ],
+            "Velvet_RimColorIntensity": [
+                0.10000000149011612
+            ],
+            "Velvet_ShadingBias": [
+                4.0
+            ],
+            "Velvet_ShadingGrad": [
+                2.0
+            ],
+            "Velvet_ShadingIntensity": [
+                0.5
+            ],
+            "Velvet_UseMaskMap": [
+                0.0
+            ],
+            "VfxTexture_UseSecondaryUV": [
+                1.0
+            ],
+            "Vfx_NoiseMap_Tiling_Offset": [
+                [
+                    1.0,
+                    1.0,
+                    0.148686945438385,
+                    0.148686945438385
+                ]
+            ],
+            "Vfx_PatternMap_Tiling_Offset": [
+                [
+                    3.5,
+                    3.5,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Vfx_PetrificationMap_Tiling_Offset": [
+                [
+                    1.2999999523162842,
+                    1.0,
+                    0.148686945438385,
+                    0.148686945438385
+                ]
+            ],
+            "Vfx_Texture_TilingScale": [
+                [
+                    1.1376190185546875,
+                    2.210160732269287,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "WearMap_Tiling_Offset": [
+                [
+                    1.0,
+                    2.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "WetParamIndex": [
+                10.0
+            ],
+            "Wet_Color": [
+                [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ]
+            ],
+            "Wet_Oil_Color": [
+                [
+                    0.0313725508749485,
+                    0.0235294122248888,
+                    0.007843137718737125,
+                    1.0
+                ]
+            ],
+            "Wet_Oil_Rate": [
+                0.0
+            ],
+            "Wet_Oil_SpectrumBlend": [
+                0.5
+            ],
+            "Wet_Oil_Thickness": [
+                0.4099999964237213
+            ],
+            "Wet_Overall_Rate": [
+                0.0
+            ],
+            "Wet_Params": [
+                [
+                    1.0,
+                    0.5,
+                    0.800000011920929,
+                    0.5099999904632568
+                ]
+            ]
+        }
+    },
+    "Parts": [
+        "am_051_0_0_Iron_mat",
+        "am_051_0_0_Leather_mat",
+        "am_051_0_1_Iron_mat",
+        "am_051_0_1_Leather_mat",
+        "am_051_0_1_Scalemail_mat"
+    ],
+    "Presets": null,
+    "current_preset_indx": 1,
+    "isUpdated": false
+}

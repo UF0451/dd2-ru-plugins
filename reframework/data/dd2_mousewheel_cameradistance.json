@@ -1,0 +1,13 @@
+{
+    "CameraDistance": -2.0,
+    "CameraMaxDistance": 10.0,
+    "CameraMinDistance": -3.0,
+    "CameraSpeed": 1.5,
+    "DisallowCtrlKey": true,
+    "EnableGamePad": true,
+    "KeyZoomIn": "Up",
+    "KeyZoomOut": "Down",
+    "RequireCtrlKey": false,
+    "ResetDistanceOnMiddleClick": true,
+    "WheelStepDistance": 1.0
+}

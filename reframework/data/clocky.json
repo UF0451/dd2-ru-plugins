@@ -1,0 +1,34 @@
+{
+    "InGameFontPrefs": {
+        "AMPM": false,
+        "Aligment": 2,
+        "AxsKey": "InGame",
+        "Background": false,
+        "BackgroundColor": 2420393028,
+        "FontColor": 2582704368,
+        "FontSize": 18,
+        "FormatMain": "{h} : {m}{ampm} - {tod}",
+        "FormatSecond": "{D} {d} ",
+        "PositionHeightOffset": 672,
+        "PositionWidthOffset": 259,
+        "SecondLineAligment": 1,
+        "TwoRow": true
+    },
+    "Language": 2,
+    "OnPauseFontPrefs": {
+        "AMPM": false,
+        "Aligment": 1,
+        "AxsKey": "OnPause",
+        "Background": false,
+        "BackgroundColor": 2420393028,
+        "FontColor": 2582704368,
+        "FontSize": 24,
+        "FormatMain": "{D} {d}, {h} : {m}{ampm} - {tod}",
+        "FormatSecond": "{D} {d} - {tod}",
+        "PositionHeightOffset": 123,
+        "PositionWidthOffset": 107,
+        "SecondLineAligment": 1,
+        "TwoRow": false
+    },
+    "ShowOnPause": true
+}

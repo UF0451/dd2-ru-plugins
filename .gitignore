@@ -1,0 +1,61 @@
+# Game files (do not distribute)
+DD2.exe
+*.pak
+*.patch_*
+steam_api64.dll
+version.dll
+CrashHandler.dll
+CrashHandler.dll.bak
+CrashReportDll.dll
+CrashReport_FMMBACKUP.exe
+InstallerMessage.exe
+Modmanager.exe
+Updater.exe
+fmodex64.dll
+nvngx_dlss.dll
+nvngx_dlssg.dll
+amd_ags_x64.dll
+reflex.dll
+sl.*
+ffx_*.dll
+shader.cache2
+il2cpp_dump.json
+
+# Config/saves
+config.ini
+config_default.ini
+ref_ui.ini
+re2_fw_config.txt
+re2_framework_log.txt
+reframework_crash.dmp
+reframework_accessed_files.txt
+reframework_loose_files.txt
+
+# Vortex/Mod manager
+vortex.deployment.*
+__folder_managed_by_vortex
+ModdedByFluffyModManager.txt
+
+# Temp/dirs
+D3D12/
+Data/
+Games/
+SaveSlots/
+_storage_/
+coldclient/
+dlc/
+natives/
+sdk_ida/
+userdata/
+driver_amd/
+driver_intel/
+reflex_amd/
+reflex_intel/
+Legalese/
+
+# IDE
+.vscode/
+
+# Python
+__pycache__/
+*.pyc

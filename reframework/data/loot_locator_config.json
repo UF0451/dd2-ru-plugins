@@ -1,0 +1,23 @@
+{
+    "color": 4294959104,
+    "color_rare": 4278255615,
+    "dev_mode": true,
+    "enabled": true,
+    "filter_beetles": true,
+    "filter_chests": true,
+    "filter_riftstones": true,
+    "filter_tokens": true,
+    "filter_wakestones": true,
+    "height_offset": 0.5,
+    "max_distance": 45.0,
+    "max_markers": 300,
+    "radar_radius": 560.0,
+    "scan_interval": 40,
+    "show_distance": true,
+    "show_edge_arrows": true,
+    "show_enemy_drops": true,
+    "show_names": true,
+    "show_rare_only": false,
+    "show_unknown": false,
+    "use_symbols": false
+}

@@ -1,0 +1,1 @@
+-- Deprecated. Replaced with gibbed_Almanac.lua.

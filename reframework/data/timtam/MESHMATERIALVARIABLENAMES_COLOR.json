@@ -1,0 +1,20 @@
+{
+    "0": "BaseColor",
+    "1": "Corruption_Color",
+    "2": "Corruption_TexColorA",
+    "3": "Corruption_TexColorB",
+    "4": "Decay_Color",
+    "5": "DamageAccumulation_ColorA",
+    "6": "DamageAccumulation_ColorB",
+    "7": "DragonGrade_Color1",
+    "8": "DragonGrade_Color2",
+    "9": "Brainwash_Color",
+    "10": "Heat_EmissiveColor1",
+    "11": "Heat_EmissiveColor2",
+    "12": "Petrification_Color1",
+    "13": "Petrification_Color2",
+    "14": "Poison_Emissive_Color1",
+    "15": "Poison_Emissive_Color2",
+    "16": "Wet_Color",
+    "17": "Wet_Oil_Color"
+}

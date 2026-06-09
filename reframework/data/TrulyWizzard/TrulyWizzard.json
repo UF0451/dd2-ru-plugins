@@ -1,0 +1,14 @@
+{
+    "ConcentrateRate": 2.75,
+    "EnableMod": false,
+    "Hotkeys": {
+        "ConcentrateKey": "Y"
+    },
+    "LevitateParam": {
+        "HorizontalAcceleration": 10.0,
+        "KeepLevitateMoveSpeedRate": 2.0,
+        "MaxHeight": 20.299999237060547,
+        "MaxKeepSec": 30.0
+    },
+    "MagicSkillLockOnRangeRate": 2.0
+}

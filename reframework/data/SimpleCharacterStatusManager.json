@@ -1,0 +1,140 @@
+{
+    "arisenAffinity": {
+        "-1": -1000,
+        "0": -1000,
+        "1": -1000,
+        "2": -1000,
+        "3": -1000,
+        "4": -1000,
+        "5": -1000,
+        "6": -1000
+    },
+    "autoReapplyBattleRelationshipCheckBoxChecked": {
+        "-1": false,
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false
+    },
+    "autoReapplyStatusConditionCheckBoxChecked": {
+        "-1": false,
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false
+    },
+    "battleRelationshipApplicationTypeIndex": {
+        "-1": 0,
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+    },
+    "battleRelationshipIndex": {
+        "-1": 0,
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+    },
+    "criticalHealthPercentage": 23.99,
+    "criticalStaminaPercentage": 23.99,
+    "disableAutoDashOutsideCombat": false,
+    "disableExpAndDcpGainFromBattles": false,
+    "elvishLanguageOptionIndex": 1,
+    "forceBattleRelationshipToPawns": false,
+    "freezeHealth": {
+        "-1": false,
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false
+    },
+    "freezeStamina": {
+        "-1": false,
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false
+    },
+    "hideHealthAndStaminaSections": false,
+    "installedVersion_characterHelper": "1.1.10",
+    "installedVersion_common": "1.1.18",
+    "maxManagedNPCCount": 1,
+    "modEnabled": true,
+    "modname": "SimpleCharacterStatusManager",
+    "npcCharID": {
+        "-1": "",
+        "0": "",
+        "1": "",
+        "2": "",
+        "3": "ch300919",
+        "4": "",
+        "5": "",
+        "6": ""
+    },
+    "originalChildWindowPosition": "Top Right",
+    "refreshListsWhenPausedGUI": false,
+    "remainingHealthAmount": {
+        "-1": -1,
+        "0": -1,
+        "1": -1,
+        "2": -1,
+        "3": -1,
+        "4": -1,
+        "5": -1,
+        "6": -1
+    },
+    "remainingStaminaAmount": {
+        "-1": -1,
+        "0": -1,
+        "1": -1,
+        "2": -1,
+        "3": -1,
+        "4": -1,
+        "5": -1,
+        "6": -1
+    },
+    "requiredVersion_characterHelper": "1.1.9",
+    "requiredVersion_common": "1.1.16",
+    "scarTypeIndex": {
+        "-1": 1,
+        "0": 1,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1
+    },
+    "statusConditionIndex": {
+        "-1": 1,
+        "0": 1,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1
+    },
+    "useNamesAsLabels": true,
+    "version": "1.4.16"
+}

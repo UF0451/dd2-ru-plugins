@@ -1,0 +1,499 @@
+{
+  "WeaponSpecialFormat": {
+    "SpecialEfficacy": {
+      "enable": true,
+      "format": "+{v1} Бонус урона определённым врагам",
+      "hint": "对特定敌人增伤"
+    },
+    "1010": {
+      "enable": true,
+      "format": "+{v1}% суммируемый БазАТК за удар, макс. +{v2}%",
+      "hint": "wp00_007_00,龙之信条,每次攻击获得基础攻击倍率"
+    },
+    "1207": {
+      "enable": true,
+      "format": "**+0~10% БазАТК при HP>25%. +300% БазАТК при HP<25%",
+      "hint": "龙之信条大剑,根据(1-ReducedHpRatio)获得基础攻击倍率，参数是1/1实在找不到规律，代码也看不懂，实测是损失(0,75%)血量时获得约(0,0.1),损失75%以上时跃升至4.0"
+    },
+    "1413": {
+      "enable": false,
+      "hint": "探测匕首,1/1,推测(1,1)的都是实际不使用参数计算？"
+    },
+    "1804": {
+      "enable": true,
+      "format": "+{v1}% Опыт, +{v2}% Расход выносливости",
+      "hint": "美杜莎魔弓箭，(300,400)"
+    },
+    "1610": {
+      "enable": true,
+      "curve": true,
+      "format": "+{v0}~{v1}% БазМагАТК при HP<{t1}%. +{v2}% БазМагАТК при HP>{t2}%",
+      "hint": "封魔大杖，(5，100)"
+    },
+    "1906": {
+      "enable": true,
+      "format": "Враги получают x{v2} Бонус урона. Восстановление {v1} HP/сек",
+      "hint": "圣木魔弓，固定回血，给敌人加DamageRate"
+    },
+    "2010": {
+      "enable": true,
+      "format": "+{v1}% БазАТК за удар, не более +{v2}%",
+      "hint": "林德蠕龙的尖牙"
+    },
+    "2103": {
+      "enable": true,
+      "format": "**+10 золота за удар, не более 3000. Шанс получить 100/1000/50000 золота",
+      "wp10_003": true,
+      "hint": "梦想路，50/50,"
+    },
+    "2210": {
+      "enable": false,
+      "hint": "庇佑护盾，200/0,意义不明"
+    }
+  },
+  "AbilityFormat": {
+    "10": {
+      "format": "+{v1} Макс. выносливость",
+      "hint": "固定値(150.000000,0.000000)"
+    },
+    "11": {
+      "format": "x{v1} Расход масла / x{v2} Дальность",
+      "hint": "1:燃料の消費速度倍率　2:照らす範囲(0.660000,2.000000)"
+    },
+    "12": {
+      "format": "+{v1} Бонус урона",
+      "hint": "攻撃倍率加算値(0.050000,0.000000)"
+    },
+    "13": {
+      "format": "Обрыв: x{v1} / Другое: x{v2}",
+      "hint": "1：段差登り、2：しがみつき・しゃがみ(1.100000,1.100000)"
+    },
+    "14": {
+      "format": "+{v2}%+{v1} МагЗащ",
+      "hint": "１：固定値　２：割合値(%)(45.000000,30.000000)"
+    },
+    "15": {
+      "format": "+{v1}% Количество восстановления",
+      "hint": "増加回復量(％)(10.000000,0.000000)"
+    },
+    "16": {
+      "format": "x{v1} Длительность",
+      "hint": "効果時間倍率(0.700000,0.000000)"
+    },
+    "17": {
+      "format": "x{v1} Длительность",
+      "hint": "効果時間倍率(1.200000,0.000000)"
+    },
+    "18": {
+      "format": "+{v1} Скорость восстановления",
+      "hint": "加算倍率を入力(0.100000,0.000000)"
+    },
+    "19": {
+      "format": "x{v1} Множитель ненависти",
+      "hint": "固定ヘイト値 * Value(0.850000,0.000000)"
+    },
+    "20": {
+      "format": "Восстановить {v1}%~{v2}% макс. HP",
+      "hint": "トドメを指したとき、自身の体力の(Value～Value2)%回復(4.000000,4.000000)"
+    },
+    "21": {
+      "format": "x{v1} Множитель расхода выносливости",
+      "hint": "(0.800000,0.000000)"
+    },
+    "22": {
+      "format": "x{v1} Множитель расхода выносливости",
+      "hint": "しがみつき＆押さえ付け中のスタミナ持続消費量 * Value(0.850000,0.000000)"
+    },
+    "23": {
+      "format": "+{v2}%+{v1} БазАТК",
+      "hint": "１：固定値　２：割合値(%)(30.000000,0.000000)"
+    },
+    "24": {
+      "format": "+{v2}%+{v1} Макс. HP",
+      "hint": "HPの上限値 + Value(200.000000,0.000000)"
+    },
+    "25": {
+      "format": "x{v1} Множитель",
+      "hint": "組み付き時の押し引き力 * Value(1.500000,0.000000)"
+    },
+    "26": {
+      "format": "+{v1}% Бонус урона в блоке",
+      "hint": "ガード削り攻撃力 + Value%(30.000000,0.000000)"
+    },
+    "27": {
+      "format": "+{v1}% Сила сбивания",
+      "hint": "吹き飛ばし力 + Value%(15.000000,0.000000)"
+    },
+    "28": {
+      "format": "x{v1} Потеря макс. HP",
+      "hint": "黒ゲージ蓄積量×Value(0.950000,0.000000)"
+    },
+    "29": {
+      "format": "+{v1}% Накопление ослаблений",
+      "hint": "状態異常与蓄積値 + Value%(20.000000,0.000000)"
+    },
+    "30": {
+      "format": "{v1}/{v2}",
+      "hint": "(75.000000,90.000000)"
+    },
+    "31": {
+      "format": "+{v1}% Устойчивость к сбиванию",
+      "hint": "吹き飛ばし耐性 + Value%(30.000000,0.000000)"
+    },
+    "32": {
+      "format": "+{v1}% Урон",
+      "hint": "弱点属性による与ダメージ + Value%(5.000000,0.000000)"
+    },
+    "33": {
+      "format": "{v2}%+{v1} БазМагАТК",
+      "hint": "１：固定値　２：割合値(%)(30.000000,0.000000)"
+    },
+    "34": {
+      "format": "x{v1} Скорость передвижения",
+      "hint": "持ち上げ、担ぎ上げ時の移動速度xValue(1.100000,0.000000)"
+    },
+    "35": {
+      "format": "x{v1} Золото",
+      "hint": "金貨袋取得時、ゴールド獲得量xValue(1.050000,0.000000)"
+    },
+    "36": {
+      "format": "+{v2}% БазАТК днём (4:00~20:00)\n+{v2}% БазМагАТК ночью (18:00~6:00)",
+      "hint": "日中（4時～20時）、物理攻撃力+ 夜間（18時～6時）、魔法攻撃力+ １：固定値　２：割合値(%)(0.000000,5.000000)"
+    },
+    "37": {
+      "format": "x{v1} Количество",
+      "hint": "リム決勝を入手したときのリム獲得量xValue(1.050000,0.000000)"
+    },
+    "38": {
+      "format": "x{v1} Стоимость",
+      "hint": "ダッシュ中のスタミナ消費量×Value(0.900000,0.000000)"
+    },
+    "39": {
+      "format": "+{v2}%+{v1} Защ/МагЗащ",
+      "hint": "ポーンの物理防御力/魔法防御力+ １：固定値　２：割合値(%)(30.000000,0.000000)"
+    },
+    "4": {
+      "format": "x{v1} Множитель",
+      "hint": "固定ヘイト値 * Value(2.000000,0.000000)"
+    },
+    "40": {
+      "format": "Восстановить {v1}% выносливости",
+      "hint": "敵にトドメを指したとき、スタミナValue%回復(10.000000,0.000000)"
+    },
+    "41": {
+      "format": "x{v1} Шанс",
+      "hint": "(1.200000,0.000000)"
+    },
+    "42": {
+      "format": "+{v2}%+{v1} БазАТК/БазМагАТК",
+      "hint": "ポーンの物理攻撃力/魔法攻撃力+ １：固定値　２：割合値(%)(30.000000,0.000000)"
+    },
+    "43": {
+      "format": "-{v1} секунд",
+      "hint": "ポーン蘇生にかかる時間 -Value(秒)(1.000000,0.000000)"
+    },
+    "44": {
+      "format": "{v1}",
+      "hint": "(1.500000,0.000000)"
+    },
+    "45": {
+      "format": "{v1}% Срабатывание",
+      "hint": "調合時にアイテム作成個数+1個になる確率Value％(15.000000,0.000000)"
+    },
+    "46": {
+      "format": "x{v1} Вероятность атаки по вам",
+      "hint": "襲撃確率 * Value(0.350000,0.000000)"
+    },
+    "47": {
+      "format": "x{v1} Дальность обнаружения врагами",
+      "hint": "敵の視界センサー * Value(0.850000,0.000000)"
+    },
+    "48": {
+      "format": "x{v1} Расположение",
+      "hint": "NPCの好感度が上がるとき、上昇値 * Value(1.100000,0.000000)"
+    },
+    "49": {
+      "format": "x{v1} Стоимость",
+      "hint": "カスタムスキルのスタミナ消費量xValue(0.950000,0.000000)"
+    },
+    "5": {
+      "format": "+{v2}%+{v1} Защ",
+      "hint": "１：固定値　２：割合値(%)(45.000000,30.000000)"
+    },
+    "50": {
+      "format": "-{v1} Уровень веса при движении",
+      "hint": "移動時の重量ランクをValue段階下げる(1.000000,0.000000)"
+    },
+    "6": {
+      "format": "+{v2}%+{v1} Макс. грузоподъёмность",
+      "hint": "最大重量加算値(10.000000,0.000000)"
+    },
+    "7": {
+      "format": "Захват: +{v1} сек. Удержание: +{v2} сек",
+      "hint": "1：担ぎ上げ、2：押さえつけ。単位は秒(2.000000,2.000000)"
+    },
+    "8": {
+      "format": "На {v1} сек быстрее из положения лёжа. На {v2} сек быстрее из ползания",
+      "hint": "1：ダウン、2：這いずり。単位は秒(0.300000,1.000000)"
+    },
+    "9": {
+      "format": "+{v1} Бонус урона",
+      "hint": "攻撃倍率加算値(0.100000,0.000000)"
+    }
+  },
+  "FieldFormat": {
+    "_AddStatus": {
+      "enable": true,
+      "format": "Добавляет статус %s",
+      "map": [
+        "Posion"
+      ],
+      "type": "Enum"
+    },
+    "_Blow": "%s Knockdown",
+    "_BlowGuard": "%s Knockdown Guard",
+    "_BlowResistRate": "%s%% Knockdown Resist",
+    "_BuyPrice": {
+      "enable": false,
+      "format": "Цена покупки: %s",
+      "type": "String"
+    },
+    "_Category": {
+      "enable": false,
+      "format": "Катег.: %s",
+      "map": [
+        "Material",
+        "Other",
+        "Equip"
+      ],
+      "type": "Enum"
+    },
+    "_DarkDefence": "%s%% Dark Debuff Resist",
+    "_ElementStore": "%s%% Element Enchant",
+    "_FireDefence": "%s%% Fire Damage Reduce",
+    "_FireResist": "%s%% Fire Debuff Resist",
+    "_HealBlackHp": "Heal %s MAXHP.",
+    "_HealStamina": "Recover %s Stamina",
+    "_HealWhiteHp": "Heal %s HP.",
+    "_IceDefence": "%s%% Ice Damage Reduce",
+    "_IceResist": "%s%% Ice Debuff Resist",
+    "_Id": {
+      "enable": false,
+      "format": "ID: %s",
+      "type": "String"
+    },
+    "_LightDefence": "%s%% Light Damage Reduce",
+    "_MagicAttack": "%s MagATK",
+    "_MagicDefence": "%s MagDEF",
+    "_OilResist": "%s%% Oil Resist",
+    "_OilStore": "%s Oil Store",
+    "_PhysicalAttack": "%s ATK",
+    "_PhysicalDefence": "%s PhyDEF",
+    "_PoisonResist": "%s%% Poison Resist",
+    "_PoisonStore": "%s PoisonStore",
+    "_SellPrice": {
+      "enable": false,
+      "format": "Цена продажи: %s",
+      "type": "String"
+    },
+    "_ShakeResistRate": "%s%% Shake Resist",
+    "_SilentResist": "%s%% Silent Resist",
+    "_SilentStore": "%s Silent Store",
+    "_SlashDefenceRate": "%s%% Slash Reduce",
+    "_SleepResist": "%s%% Sleep Resist",
+    "_SleepStore": "%s Sleep Store",
+    "_StoneResist": "%s%% Stone Resist",
+    "_StoneStore": "%s Stone Store",
+    "_StrikeDefenceRate": "%s%% Strike Reduce",
+    "_StrikeStore": "%s Unconsicious Store",
+    "_SubCategory": {
+      "enable": false,
+      "format": "Подкатег.: %s",
+      "map": [
+        "Buff",
+        "Material",
+        "Special",
+        "Quest",
+        "Book",
+        "Arrow",
+        "CustomSkill",
+        "PawnSkill",
+        "MagicBook",
+        "Online"
+      ],
+      "type": "Enum"
+    },
+    "_ThunderDefence": "%s%% Thunder Damage Reduce",
+    "_ThunderResist": "%s%% Thunder Debuff Resist",
+    "_UseEffect": {
+      "enable": false,
+      "format": "Эффект: %s",
+      "map": [
+        "Heal",
+        "RecoverStamina",
+        "Status"
+      ],
+      "type": "Enum"
+    },
+    "_WaterResist": "%s%% Water Resist",
+    "_WaterStore": "%s Water Store"
+  },
+  "RingSpecialFormat": {
+    "1": {
+      "enable": true,
+      "format": "+{v1} Макс. HP",
+      "hint": "(3502,Ring of Acclamation,200,0,0)(3501,Ring of Exultation,100,0,0)"
+    },
+    "10": {
+      "enable": true,
+      "format": "{v1}% Скорость применения заклинаний",
+      "hint": "(3533,Ring of Articulacy,15,0,0)"
+    },
+    "11": {
+      "enable": true,
+      "format": "{v1}% Скорость заклинаний, но -{v2}% Макс. HP",
+      "hint": "(3534,Ring of Recitation,25,20,0)"
+    },
+    "12": {
+      "enable": true,
+      "format": "+{v1} Устойчивость к сбиванию",
+      "hint": "(3535,Ring of Resolution,100,0,0)"
+    },
+    "13": {
+      "enable": true,
+      "format": "-{v1}% Расход выносливости",
+      "hint": "(3536,Ring of Grit,25,0,0)"
+    },
+    "14": {
+      "enable": true,
+      "format": "+{v1}% АТК на {v2} секунд",
+      "hint": "(3537,Ring of Requital,15,10,0)"
+    },
+    "15": {
+      "enable": true,
+      "format": "+{v1}% БазАТК при весе<{t1}, или +{v3}% БазАТК при весе<{t3}",
+      "hint": "(3538,Ring of Brawn,0,0,0)",
+      "curve": true
+    },
+    "16": {
+      "enable": true,
+      "format": "Непрерывное лечение при HP<{v1}% макс. HP",
+      "hint": "(3539,Ring of Benevolence,25,3,0)"
+    },
+    "17": {
+      "enable": true,
+      "format": "+{v2}% БазАТК при HP<{v1}%",
+      "hint": "(3540,Ring of Recompense,25,100,0)"
+    },
+    "18": {
+      "enable": true,
+      "format": "+{v1}% БазАТК при полном HP",
+      "hint": "(3541,Ring of Predominance,100,10,0)"
+    },
+    "2": {
+      "enable": true,
+      "format": "+{v1} Макс. выносливость",
+      "hint": "(3504,Ring of Momentum,150,0,0)(3503,Ring of Tenacity,90,0,0)"
+    },
+    "20": {
+      "enable": false,
+      "format": "{v1} {v2} {v3}",
+      "hint": "(3543,Ring of Disfavor,1,0,0)"
+    },
+    "21": {
+      "enable": true,
+      "format": "+{v1} Восстановление выносливости",
+      "hint": "(3544,Ring of Quickening,10,0,0)"
+    },
+    "22": {
+      "enable": true,
+      "format": "+{v1} Сила сбивания",
+      "hint": "(3545,Ring of Vehemence,100,0,0)"
+    },
+    "23": {
+      "enable": true,
+      "format": "+{v1}% АТК оружием на дист. {t1}. +{v3}% на дист. {t3}. +{v5}% на дист. {t5}",
+      "hint": "(3548,Ring of Proximity,0,0,0)",
+      "curve": true
+    },
+    "24": {
+      "enable": true,
+      "format": "+{v1}%/{v2}% Наносимый/Получаемый урон",
+      "hint": "(3549,Ring of Gallantry,25,25,0)"
+    },
+    "25": {
+      "enable": true,
+      "format": "+{v1}% Урон сзади",
+      "hint": "(3550,Ring of Skullduggery,20,0,0)"
+    },
+    "26": {
+      "enable": true,
+      "format": "Пешка получает +{v1} Защ на {v2} сек",
+      "hint": "(3551,Ring of Reassurance,50,20,0)"
+    },
+    "27": {
+      "enable": true,
+      "format": "+{v1}% Количество восстановления",
+      "hint": "(3552,Ring of Amplification,10,0,0)"
+    },
+    "28": {
+      "enable": false,
+      "format": "{v1} {v2} {v3}",
+      "hint": "(3553,Turquoise Ring,0,0,0)"
+    },
+    "29": {
+      "enable": false,
+      "format": "{v1} {v2} {v3}",
+      "hint": "(3554,Ring of Derision,0,0,0)"
+    },
+    "3": {
+      "enable": true,
+      "format": "+{v1} Макс. грузоподъёмность",
+      "hint": "(3506,Ring of Profusion,10,0,0)(3505,Ring of Accrual,5,0,0)"
+    },
+    "30": {
+      "enable": true,
+      "format": "+{v1}% Расположение",
+      "hint": "(3555,Eternal Bond,10,0,0)"
+    },
+    "4": {
+      "enable": true,
+      "format": "+{v1}/{v2}/{v3} Макс. HP/Макс. выносливость/Макс. грузоподъёмность",
+      "hint": "(3507,Ring of Triumph,100,100,5)"
+    },
+    "5": {
+      "enable": true,
+      "format": "+{v1} АТК",
+      "hint": "(3508,Ring of Aggression,30,0,0)"
+    },
+    "6": {
+      "enable": true,
+      "format": "+{v1} Маг. АТК",
+      "hint": "(3510,Ring of Percipience,30,0,0)"
+    },
+    "7": {
+      "enable": true,
+      "format": "+{v1}% Получение опыта",
+      "hint": "(3530,Ring of Ambition,50,0,0)"
+    },
+    "8": {
+      "enable": true,
+      "format": "+{v1}% Получение очков дисциплины",
+      "hint": "(3531,Ring of Endeavor,50,0,0)"
+    },
+    "9": {
+      "enable": true,
+      "format": "Восстановить {v1} HP за убийство",
+      "hint": "(3532,Ring of Regeneration,50,0,0)"
+    }
+  },
+  "ItemBuffFormat": {
+    "AttackFactor": "+%s%% Attack ",
+    "DefenceFactor": "+%s%% Defense ",
+    "StatusConditionResistFactor": "+%s%% Status Resist ",
+    "StaminaRecoverFactor": "%s%% Stamina Recover ",
+    "Sec": "for %s seconds",
+    "MaxHpDamageFactor": "-%s%% MaxHP Loss",
+    "Camp": "Camp:"
+  }
+}

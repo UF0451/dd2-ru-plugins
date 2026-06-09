@@ -1,0 +1,6 @@
+{
+    "auto_enable_at_night": true,
+    "lantern_mode_pawn_main": 2,
+    "lantern_mode_pawns_other": 2,
+    "lantern_mode_player": 2
+}

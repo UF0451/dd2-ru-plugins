@@ -1,0 +1,18 @@
+{
+    "arisen": {
+        "f": 2,
+        "m": 1
+    },
+    "list": [
+        "Default Preset 1",
+        "Default Preset 2",
+        "Default Preset 3",
+        "Default Preset 4",
+        "Normal butt preset",
+        "увуву"
+    ],
+    "pawn": {
+        "f": 4,
+        "m": 3
+    }
+}

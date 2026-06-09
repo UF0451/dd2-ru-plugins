@@ -1,0 +1,105 @@
+{
+    "marker_order": [
+        "Seeker's Tokens",
+        "Golden Trove Beetles",
+        "Chests (S)",
+        "Chests (M)",
+        "Chests (L)",
+        "Chests (XL)",
+        "Special Chests (S)",
+        "Special Chests (M)",
+        "Special Chests (L)"
+    ],
+    "markers": {
+        "Chests (L)": {
+            "acquired_icon_color": 3428797977,
+            "acquired_icon_color_gui": 3424210527,
+            "acquired_icon_type": 25,
+            "acquired_show": false,
+            "unacquired_icon_color": 4292128567,
+            "unacquired_icon_color_gui": 4281839572,
+            "unacquired_icon_type": 25,
+            "unacquired_show": false
+        },
+        "Chests (M)": {
+            "acquired_icon_color": 3428797977,
+            "acquired_icon_color_gui": 3424210527,
+            "acquired_icon_type": 25,
+            "acquired_show": false,
+            "unacquired_icon_color": 4292128567,
+            "unacquired_icon_color_gui": 4281839572,
+            "unacquired_icon_type": 25,
+            "unacquired_show": false
+        },
+        "Chests (S)": {
+            "acquired_icon_color": 3428797977,
+            "acquired_icon_color_gui": 3424210527,
+            "acquired_icon_type": 25,
+            "acquired_show": false,
+            "unacquired_icon_color": 4292128567,
+            "unacquired_icon_color_gui": 4281839572,
+            "unacquired_icon_type": 25,
+            "unacquired_show": false
+        },
+        "Chests (XL)": {
+            "acquired_icon_color": 3428797977,
+            "acquired_icon_color_gui": 3424210527,
+            "acquired_icon_type": 25,
+            "acquired_show": false,
+            "unacquired_icon_color": 4292128567,
+            "unacquired_icon_color_gui": 4281839572,
+            "unacquired_icon_type": 25,
+            "unacquired_show": false
+        },
+        "Golden Trove Beetles": {
+            "acquired_icon_color": 3424210526,
+            "acquired_icon_color_gui": 3428732441,
+            "acquired_icon_type": 25,
+            "acquired_show": false,
+            "unacquired_icon_color": 4281839572,
+            "unacquired_icon_color_gui": 4292128567,
+            "unacquired_icon_type": 25,
+            "unacquired_show": false
+        },
+        "Seeker's Tokens": {
+            "acquired_icon_color": 3422578176,
+            "acquired_icon_color_gui": 3422578176,
+            "acquired_icon_type": 25,
+            "acquired_show": false,
+            "unacquired_icon_color": 4278242304,
+            "unacquired_icon_color_gui": 4278242304,
+            "unacquired_icon_type": 25,
+            "unacquired_show": false
+        },
+        "Special Chests (L)": {
+            "acquired_icon_color": 3428797977,
+            "acquired_icon_color_gui": 3424210527,
+            "acquired_icon_type": 25,
+            "acquired_show": false,
+            "unacquired_icon_color": 4292128567,
+            "unacquired_icon_color_gui": 4281839572,
+            "unacquired_icon_type": 25,
+            "unacquired_show": false
+        },
+        "Special Chests (M)": {
+            "acquired_icon_color": 3428797977,
+            "acquired_icon_color_gui": 3424210527,
+            "acquired_icon_type": 25,
+            "acquired_show": false,
+            "unacquired_icon_color": 4292128567,
+            "unacquired_icon_color_gui": 4281839572,
+            "unacquired_icon_type": 25,
+            "unacquired_show": false
+        },
+        "Special Chests (S)": {
+            "acquired_icon_color": 3428797977,
+            "acquired_icon_color_gui": 3424210527,
+            "acquired_icon_type": 25,
+            "acquired_show": false,
+            "unacquired_icon_color": 4292128567,
+            "unacquired_icon_color_gui": 4281839572,
+            "unacquired_icon_type": 25,
+            "unacquired_show": false
+        }
+    }
+}

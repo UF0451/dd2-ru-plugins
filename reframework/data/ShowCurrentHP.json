@@ -1,0 +1,22 @@
+{
+    "COLOR_HP_HIGH": 4283488586,
+    "COLOR_HP_LOW": 4282401023,
+    "COLOR_HP_MID": 4281388270,
+    "COLOR_ST_BAR": 4281379566,
+    "background_style": 0,
+    "font_b": 255,
+    "font_g": 255,
+    "font_name": "FOTPrentice.otf",
+    "font_r": 255,
+    "font_size": 14,
+    "hide_labels": false,
+    "hud_x": 1523,
+    "hud_y": 25,
+    "show_hud": true,
+    "show_job_icons": true,
+    "show_pawns": true,
+    "show_player": true,
+    "show_stamina": true,
+    "show_status_icons": true,
+    "status_display_mode": 0
+}
